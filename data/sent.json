@@ -6,7 +6,9 @@
     "queue/20261112-151726-01.json",
     "queue/20261112-151726-02.json",
     "queue/20261112-181910-01.json",
-    "queue/20261112-181910-02.json"
+    "queue/20261112-181910-02.json",
+    "queue/20261112-211212-01.json",
+    "queue/20261112-211212-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -15,6 +17,9 @@
     "https://www.sports.ru/football/1117434252-milanu-interesen-trezolde-forvarda-bryugge-oczenivayut-v-60-mln-evro-n.html",
     "https://www.sports.ru/football/1117434339-igor-akinfeev-ne-znayu-fanatov-czska-kotorye-perezhivayut-za-vratarsku.html",
     "https://www.sports.ru/football/1117434449-de-bryujne-mozhet-pokinut-napoli-zimoj-xavbek-interesen-psv-eindhovens.html",
-    "https://www.sports.ru/football/1117434442-kristal-pelas-uvolil-sazha-s-posta-glavnogo-trenera-komanda-idet-posle.html"
-  ]
+    "https://www.sports.ru/football/1117434442-kristal-pelas-uvolil-sazha-s-posta-glavnogo-trenera-komanda-idet-posle.html",
+    "https://www.sport.ru/football/ispaniya-oderjala-volevuyu-pobedu-v-matche-s-angliey-bronzovyy-prizer-chm-edva-ne-/article663509",
+    "https://www.sport.ru/football/kanchelskis-poradovalsya-razvitiyu-karery-batrakova/article663501"
+  ],
+  "sent_commentary_keys": []
 }
