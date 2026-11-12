@@ -1,8 +1,12 @@
 {
   "sent_files": [
-    "queue/20261112-141000-test-01.json"
+    "queue/20261112-141000-test-01.json",
+    "queue/20261112-143000-01.json",
+    "queue/20261112-143000-02.json"
   ],
   "sent_urls": [
-    "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960"
+    "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
+    "https://www.sports.ru/football/1117434251-angliya-sygraet-s-xorvatiej-v-5-m-ture-ligi-naczij-nachalo-matcha-v-22.html",
+    "https://www.sports.ru/basketball/1117434055-egor-dyomin-nabral-22-ochka-za-23-minuty-4-iz-6-iz-za-dugi-v-pobednom-.html"
   ]
 }
