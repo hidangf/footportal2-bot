@@ -18,14 +18,16 @@ STATE_FILE = ROOT / "data" / "sent.json"
 
 def load_state():
     if not STATE_FILE.exists():
-        return {"sent_files": [], "sent_urls": []}
+        return {"sent_files": [], "sent_urls": [], "sent_commentary_keys": []}
     data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    return {"sent_files": data.get("sent_files", []), "sent_urls": data.get("sent_urls", [])}
+    return {"sent_files": data.get("sent_files", []), "sent_urls": data.get("sent_urls", []),
+            "sent_commentary_keys": data.get("sent_commentary_keys", [])}
 
 def save_state(state):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     state["sent_files"] = state["sent_files"][-5000:]
     state["sent_urls"] = state["sent_urls"][-5000:]
+    state["sent_commentary_keys"] = state.get("sent_commentary_keys", [])[-5000:]
     tmp = STATE_FILE.with_suffix(".tmp")
     tmp.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     tmp.replace(STATE_FILE)
@@ -49,7 +51,14 @@ def validate(post):
     if re.search(r"[\r\n]", source):
         raise ValueError("Переносы строк в ссылке")
     name = str(post.get("source_name", "Источник")).strip()[:80] or "Источник"
-    return {"title": title, "body": body, "source_url": source, "source_name": name}
+    kind = str(post.get("kind", "news")).strip()
+    if kind not in {"news", "commentary"}:
+        raise ValueError("Неизвестный тип публикации")
+    speaker = str(post.get("speaker", "")).strip()
+    if kind == "commentary" and speaker not in {"ivan-vyatkin", "nikita-filatov"}:
+        raise ValueError("Для комментария обязателен известный speaker")
+    return {"title": title, "body": body, "source_url": source, "source_name": name,
+            "kind": kind, "speaker": speaker}
 
 def message(post):
     output = (f"<b>{html.escape(post['title'])}</b>\n\n"
@@ -84,6 +93,7 @@ def run(dry_run=False):
     state = load_state()
     sent_files = set(state["sent_files"])
     sent_urls = set(state["sent_urls"])
+    sent_commentary_keys = set(state.get("sent_commentary_keys", []))
     posted = skipped = errors = 0
     for file in sorted(QUEUE_DIR.glob("*.json")):
         rel = file.relative_to(ROOT).as_posix()
@@ -92,7 +102,13 @@ def run(dry_run=False):
         try:
             post = validate(json.loads(file.read_text(encoding="utf-8")))
             key = url_key(post["source_url"])
-            if key in sent_urls:
+            is_commentary = post["kind"] == "commentary"
+            comment_key = f"{post['speaker']}::{key}"
+            # У отдельных комментариев свой реестр: одно и то же реальное
+            # событие может стать новостью и получить реакции двух героев.
+            duplicate = (comment_key in sent_commentary_keys if is_commentary
+                         else key in sent_urls)
+            if duplicate:
                 state["sent_files"].append(rel)
                 sent_files.add(rel)
                 if not dry_run:
@@ -105,9 +121,13 @@ def run(dry_run=False):
             else:
                 send_telegram(token, text)
                 state["sent_files"].append(rel)
-                state["sent_urls"].append(key)
                 sent_files.add(rel)
-                sent_urls.add(key)
+                if is_commentary:
+                    state.setdefault("sent_commentary_keys", []).append(comment_key)
+                    sent_commentary_keys.add(comment_key)
+                else:
+                    state["sent_urls"].append(key)
+                    sent_urls.add(key)
                 save_state(state)
                 print("Отправлено:", post["title"])
             posted += 1
