@@ -401,6 +401,60 @@
         "queue/20261113-091710-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "spartak-celtic-friendly",
+      "title": "«Спартак» обыграл «Селтик» в товарищеском матче",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Спартак» победил «Селтик» 3:1 на тренировочном сборе в Австрии.",
+        "Голы «Спартака» забили Луис Адриано, Фернандо и Артём Сокол.",
+        "Квинси Промес вышел на поле после перерыва; следующим соперником назван «Рапид»."
+      ],
+      "source_posts": [
+        "queue/20261113-121720-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "germany-netherlands-euro",
+      "title": "Германия и Нидерланды в четвертьфинале Евро",
+      "sport": "football",
+      "status": "open",
+      "stage": "fixture_announced",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "На пятницу объявлен четвертьфинал Евро Германия — Нидерланды в Роттердаме в 21:45.",
+        "В составе Германии ожидаются Месут Озил и Томас Мюллер.",
+        "Победитель якобы сыграет со сборной Казахстана; результата пока нет."
+      ],
+      "source_posts": [
+        "queue/20261113-121720-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "chicago-buffalo-kantserov",
+      "title": "«Чикаго» победил «Баффало» 4:2",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Чикаго» обыграл «Баффало» 4:2.",
+        "Две шайбы забросил Джонатан Тэйвс, по одной — Патрик Кейн и Роман Канцеров.",
+        "После девяти встреч команда набрала 12 очков, заняла третье место в Центральном дивизионе; следующий соперник — «Детройт»."
+      ],
+      "source_posts": [
+        "queue/20261113-121720-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
