@@ -23,7 +23,10 @@
     "queue/20261113-091710-03.json",
     "queue/20261113-121720-01.json",
     "queue/20261113-121720-02.json",
-    "queue/20261113-121720-03.json"
+    "queue/20261113-121720-03.json",
+    "queue/20261113-151333-01.json",
+    "queue/20261113-151333-02.json",
+    "queue/20261113-151333-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -49,7 +52,10 @@
     "https://www.sports.ru/hockey/1117435117-kaprizov-nabral-03-v-matche-s-toronto-i-stal-3-j-zvezdoj-u-nego-35-och.html",
     "https://www.sports.ru/football/1117435116-sokol-o-trenirovkax-so-spartakom-fernando-luis-adriano-promes-chudaki-.html",
     "https://www.sports.ru/football/1117435132-liga-naczij-serbiya-primet-germaniyu-niderlandy-protiv-greczii.html",
-    "https://www.sports.ru/hockey/1117435141-kanczerov-nabral-ochki-v-9-m-matche-podryad-63-na-otrezke-2-j-rezultat.html"
+    "https://www.sports.ru/hockey/1117435141-kanczerov-nabral-ochki-v-9-m-matche-podryad-63-na-otrezke-2-j-rezultat.html",
+    "https://www.sports.ru/football/1117435428-milan-xochet-podpisat-van-dejka-letom-galatasaraj-fenerbaxche-i-trabzo.html",
+    "https://www.sports.ru/football/1117435394-loko-vydelyat-800-mln-rublej-na-transfery-sovet-direktorov-obsudit-ots.html",
+    "https://www.sports.ru/hockey/1117435335-baratsh-o-porazhenii-ot-barysa-ya-dovolen-soderzhaniem-igry-rezultatom.html"
   ],
   "sent_commentary_keys": []
 }
