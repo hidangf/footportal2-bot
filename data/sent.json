@@ -17,7 +17,10 @@
     "queue/20261113-031602-02.json",
     "queue/20261113-061923-01.json",
     "queue/20261113-061923-02.json",
-    "queue/20261113-061923-03.json"
+    "queue/20261113-061923-03.json",
+    "queue/20261113-091710-01.json",
+    "queue/20261113-091710-02.json",
+    "queue/20261113-091710-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -37,7 +40,10 @@
     "https://www.euro-football.ru/article/35/1006416958_psj_hochet_zabrat_zvezdu_iz_reala__ego_zarplatu_gotovyi_utroit",
     "https://www.sports.ru/football/1117435100-tuxel-pro-21-s-xorvatiej-angliya-zasluzhila-pobedu-no-prishlos-potrudi.html",
     "https://www.sports.ru/football/1117435076-pochettino-podpishet-s-myu-kontrakt-na-2-5-goda.html",
-    "https://www.sports.ru/hockey/1117435089-karolina-proyavlyaet-interes-k-eriku-karlssonu-zashhitnika-pittsburga-.html"
+    "https://www.sports.ru/hockey/1117435089-karolina-proyavlyaet-interes-k-eriku-karlssonu-zashhitnika-pittsburga-.html",
+    "https://www.sports.ru/football/1117435106-bulykin-nazval-cherchesova-i-xoxlova-kandidatami-na-post-trenera.html",
+    "https://www.sports.ru/football/1117435107-de-la-fuente-o-pobednoj-serii-ispanii-iz-12-matchej-s-kazhdoj-igroj-por.html",
+    "https://www.sports.ru/hockey/1117435117-kaprizov-nabral-03-v-matche-s-toronto-i-stal-3-j-zvezdoj-u-nego-35-och.html"
   ],
   "sent_commentary_keys": []
 }
