@@ -503,6 +503,54 @@
       "source_posts": [
         "queue/20261113-151333-03.json"
       ]
+    },
+    {
+      "id": "russia-norway-seven",
+      "title": "Россия — Норвегия 7:0",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "Молодёжная Россия победила Норвегию 7:0 в квалификации Евро; Кокорин забил три, Черышев два.",
+        "Команда вышла на первое место с 18 очками, следующим соперником названа Шотландия."
+      ],
+      "source_posts": [
+        "queue/20261113-181726-01.json"
+      ]
+    },
+    {
+      "id": "barcelona-zenit-friendly",
+      "title": "Барселона — Зенит 1:1",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Барселона» и «Зенит» сыграли 1:1; Малком открыл счёт, Месси сравнял со штрафного.",
+        "Следующий соперник «Барселоны» — «Порту», «Зенита» — «Крылья Советов»."
+      ],
+      "source_posts": [
+        "queue/20261113-181726-02.json"
+      ]
+    },
+    {
+      "id": "lokomotiv-tom-loskov",
+      "title": "Локомотив — Томь 1:1",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Локомотив» сыграл с «Томью» 1:1, Лоськов ассистировал Булыкину, Голышев сравнял.",
+        "Тренер Дмитрий Хохлов, после матча 27 очков, следующий соперник — «Амкар»."
+      ],
+      "source_posts": [
+        "queue/20261113-181726-03.json"
+      ]
     }
   ],
   "crossings": [],
