@@ -296,6 +296,111 @@
       "optional_continuations": [
         "Решение «Монако» в конце ноября, без преждевременного объявления назначения."
       ]
+    },
+    {
+      "id": "tottenham-villarreal-el",
+      "title": "Ничья «Тоттенхэма» с «Вильярреалом»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Тоттенхэм» сыграл 1:1 с «Вильярреалом» в Лиге Европы.",
+        "Голы: Роберто Сольдадо (32-я) и Джовани Ло Чельсо (после перерыва).",
+        "Томас Тухель назван тренером «Тоттенхэма», следующим соперником — «Базель»."
+      ],
+      "source_posts": [
+        "queue/20261113-061923-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "pochettino-valencia-director",
+      "title": "Переговоры Почеттино с «Валенсией»",
+      "sport": "football",
+      "status": "open",
+      "stage": "rumor",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "Маурисио Почеттино рассматривается на пост спортивного директора «Валенсии».",
+        "Переговоры планируется завершить до зимнего трансферного окна; назначения ещё нет."
+      ],
+      "source_posts": [
+        "queue/20261113-061923-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "ottawa-florida-karlsson",
+      "title": "«Оттава» обыграла «Флориду»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Оттава» победила «Флориду» 4:2.",
+        "Эрик Карлссон оформил дубль, Бобби Райан и Кайл Туррис забросили по шайбе.",
+        "«Оттава» поднялась на восьмое место Востока, следующий соперник — «Баффало»."
+      ],
+      "source_posts": [
+        "queue/20261113-061923-03.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "lokomotiv-rubin-bulykin",
+      "title": "Ничья «Локомотива» и «Рубина»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Локомотив» сыграл 2:2 с «Рубином», дубль Дмитрия Булыкина, ответный гол Александра Бухарова.",
+        "После 17-го тура «Локомотив» набрал 26 очков, главным тренером назван Дмитрий Хохлов."
+      ],
+      "source_posts": [
+        "queue/20261113-091710-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "spain-switzerland-lineup",
+      "title": "Состав Испании против Швейцарии",
+      "sport": "football",
+      "status": "open",
+      "stage": "lineups_announced",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "Сборная Испании объявила стартовые 11 на матч чемпионата Европы со Швейцарией: Касильяс, Карвахаль, Пике, Рамос, Альба, Бускетс, Хави, Иньеста, Давид Сильва, Торрес, Мората.",
+        "Игра анонсирована на субботу в Мадриде, Испания — вторая в группе после четырёх туров."
+      ],
+      "source_posts": [
+        "queue/20261113-091710-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "minnesota-calgary-kaprizov",
+      "title": "«Миннесота» проиграла «Калгари»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-13",
+      "last_mentioned_at": "2026-11-13",
+      "established_facts": [
+        "«Миннесота» проиграла «Калгари» 1:3.",
+        "Капризов забросил с передачи Мариана Габорика, за «Калгари» отличились Игинла, Монахан и Кипрусофф.",
+        "Следующий соперник «Миннесоты» — «Ванкувер»."
+      ],
+      "source_posts": [
+        "queue/20261113-091710-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
