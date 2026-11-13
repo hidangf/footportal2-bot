@@ -29,7 +29,10 @@
     "queue/20261113-151333-03.json",
     "queue/20261113-181726-01.json",
     "queue/20261113-181726-02.json",
-    "queue/20261113-181726-03.json"
+    "queue/20261113-181726-03.json",
+    "queue/20261113-211910-01.json",
+    "queue/20261113-211910-02.json",
+    "queue/20261113-211910-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -61,7 +64,10 @@
     "https://www.sports.ru/hockey/1117435335-baratsh-o-porazhenii-ot-barysa-ya-dovolen-soderzhaniem-igry-rezultatom.html",
     "https://www.sports.ru/football/1117435618-sbornaya-rossii-u-21-razgromila-komandu-kirgizii-u-23-v-tovarishheskom.html",
     "https://www.sports.ru/football/1117435553-malkom-o-messi-kogda-ya-perexodil-v-zenit-on-skazal-mne-ostansya-u-teb.html",
-    "https://www.sports.ru/football/1117435657-panchenko-o-lokomotive-neponyatno-chto-tvoritsya-v-klube-proisxodyat-d.html"
+    "https://www.sports.ru/football/1117435657-panchenko-o-lokomotive-neponyatno-chto-tvoritsya-v-klube-proisxodyat-d.html",
+    "https://www.sports.ru/football/1117435841-esk-podderzhala-resheniya-karaseva-zaschitat-gol-krasnodara-v-vorota-c.html",
+    "https://www.sports.ru/football/1117435836-gerkus-gotov-vernutsya-v-loko-ne-pryam-pobezhal-by-no-rassmotrel-by-pr.html",
+    "https://www.sports.ru/tennis/1117435801-fricz-vyshel-v-25-j-final-v-karere.html"
   ],
   "sent_commentary_keys": []
 }
