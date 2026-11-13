@@ -12,7 +12,9 @@
     "queue/20261112-211212-03.json",
     "queue/20261113-001350-01.json",
     "queue/20261113-001350-02.json",
-    "queue/20261113-001350-03.json"
+    "queue/20261113-001350-03.json",
+    "queue/20261113-031602-01.json",
+    "queue/20261113-031602-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -27,7 +29,9 @@
     "https://www.sport.ru/tennis/andreeva-ochen-silno-perejivala-chto-ne-smogu-vyigrat-ni-odnogo-matcha-na-/article663494",
     "https://www.euro-football.ru/article/31/1006416991_shirer_nazval_glavnogo_konkurenta_arsenala_v_borbe_za_zoloto_apl__eto_ne_manchester_siti",
     "https://www.euro-football.ru/article/31/1006416977_merfi_prizval_liverpul_podpisat_zaschitnika_barselonyi_balde",
-    "https://spartak.ru/news/spartak-i-sibir-oformili-obmen-121126"
+    "https://spartak.ru/news/spartak-i-sibir-oformili-obmen-121126",
+    "https://www.euro-football.ru/article/32/1006416996_mbappe_i_esche_odin_igrok_sbornoy_francii_razgovarivayut_s_olise_o_reale",
+    "https://www.euro-football.ru/article/35/1006416958_psj_hochet_zabrat_zvezdu_iz_reala__ego_zarplatu_gotovyi_utroit"
   ],
   "sent_commentary_keys": []
 }
