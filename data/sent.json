@@ -20,7 +20,9 @@
     "queue/20261113-061923-03.json",
     "queue/20261113-091710-01.json",
     "queue/20261113-091710-02.json",
-    "queue/20261113-091710-03.json"
+    "queue/20261113-091710-03.json",
+    "queue/20261113-121720-01.json",
+    "queue/20261113-121720-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -43,7 +45,9 @@
     "https://www.sports.ru/hockey/1117435089-karolina-proyavlyaet-interes-k-eriku-karlssonu-zashhitnika-pittsburga-.html",
     "https://www.sports.ru/football/1117435106-bulykin-nazval-cherchesova-i-xoxlova-kandidatami-na-post-trenera.html",
     "https://www.sports.ru/football/1117435107-de-la-fuente-o-pobednoj-serii-ispanii-iz-12-matchej-s-kazhdoj-igroj-por.html",
-    "https://www.sports.ru/hockey/1117435117-kaprizov-nabral-03-v-matche-s-toronto-i-stal-3-j-zvezdoj-u-nego-35-och.html"
+    "https://www.sports.ru/hockey/1117435117-kaprizov-nabral-03-v-matche-s-toronto-i-stal-3-j-zvezdoj-u-nego-35-och.html",
+    "https://www.sports.ru/football/1117435116-sokol-o-trenirovkax-so-spartakom-fernando-luis-adriano-promes-chudaki-.html",
+    "https://www.sports.ru/football/1117435132-liga-naczij-serbiya-primet-germaniyu-niderlandy-protiv-greczii.html"
   ],
   "sent_commentary_keys": []
 }
