@@ -605,6 +605,59 @@
         "queue/20261113-211910-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "leicester-mu-lineker",
+      "title": "«Лестер» обыграл «Манчестер Юнайтед»",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Лестер» победил «Манчестер Юнайтед» 2:0 в 24-м туре АПЛ.",
+        "Голы забили Гари Линекер на 17-й минуте и Синдзи Окадзаки после перерыва.",
+        "«Лестер» набрал 38 очков, занял шестую строчку, следующий соперник — «Норвич»."
+      ],
+      "source_posts": [
+        "queue/20261114-001423-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "moldova-albania-streak",
+      "title": "Беспроигрышная серия Молдовы",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Молдова сыграла 1:1 с Албанией в отборе чемпионата мира; забил Артур Ионицэ.",
+        "Молдова не проигрывает семь матчей подряд; следующий соперник — Исландия."
+      ],
+      "source_posts": [
+        "queue/20261114-001423-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "metallurg-gusev-transfer",
+      "title": "Гусев переходит из СКА в «Металлург»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Металлург» объявил о переходе Никиты Гусева из СКА по контракту на два сезона.",
+        "Гусев набрал 41 очко в 52 матчах предыдущего чемпионата.",
+        "Андрей Разин ожидает дебют Гусева против «Автомобилиста»."
+      ],
+      "source_posts": [
+        "queue/20261114-001423-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
