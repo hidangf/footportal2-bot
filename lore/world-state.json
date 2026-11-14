@@ -865,6 +865,108 @@
         "queue/20261114-121446-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "rubin-ural-ishkov",
+      "title": "«Рубин» победил «Урал» с голом Ишкова",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Рубин» победил «Урал» 2:1 в 16-м туре чемпионата России; Бухаров и Ишков забили за казанцев, Погребняк — за «Урал».",
+        "«Рубин» набрал 26 очков и занимает седьмое место, следующий соперник — «Кубань»."
+      ],
+      "source_posts": [
+        "queue/20261114-152007-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "benfica-bernardo-captain",
+      "title": "Бернарду Силва — капитан «Бенфики»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Бернарду Силва назначен капитаном «Бенфики» на предстоящий матч с «Брагой», Жорже Жезуш планирует использовать его в центре обороны.",
+        "«Бенфика» ранее сыграла 0:0 с «Порту», занимает второе место с отставанием четыре очка."
+      ],
+      "source_posts": [
+        "queue/20261114-152007-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "torpedo-salavat-vekkione",
+      "title": "«Торпедо» обыграло «Салават Юлаев»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Нижегородское «Торпедо» победило «Салават Юлаев» 3:2, Кручинин оформил дубль, Веккионе забросил одну шайбу.",
+        "После 20 матчей «Торпедо» занимает пятое место Восточной конференции; следующий соперник — «Трактор»."
+      ],
+      "source_posts": [
+        "queue/20261114-152007-03.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "benfica-number-seven",
+      "title": "Седьмой номер «Бенфики» перед «Брагой»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Бенфика» представила форму на встречу с «Брагой», Жоау Мариу сыграет под номером семь.",
+        "После 12 туров «Бенфика» занимает третье место, отставая от лидера на пять очков; матч с «Брагой» ещё не сыгран."
+      ],
+      "source_posts": [
+        "queue/20261114-181607-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "zenit-udinese-serie-a",
+      "title": "«Зенит» победил «Удинезе» в Италии",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Зенит» победил «Удинезе» 2:0, забили Кержаков и Файзулин.",
+        "Игорь Денисов прокомментировал матч; «Зенит» набрал 27 очков и занимает шестое место в чемпионате Италии."
+      ],
+      "source_posts": [
+        "queue/20261114-181607-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "pegula-prague-final",
+      "title": "Пегула вышла в финал Праги",
+      "sport": "tennis",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Джессика Пегула обыграла Светлану Кузнецову 6:3, 7:5 в полуфинале турнира в Праге.",
+        "В финале Пегула встретится с победительницей встречи Андреева — Плишкова; результат финала ещё не опубликован."
+      ],
+      "source_posts": [
+        "queue/20261114-181607-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
