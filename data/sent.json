@@ -51,7 +51,9 @@
     "queue/20261114-152007-01.json",
     "queue/20261114-152007-02.json",
     "queue/20261114-152007-03.json",
-    "queue/20261114-181607-01.json"
+    "queue/20261114-181607-01.json",
+    "queue/20261114-181607-02.json",
+    "queue/20261114-181607-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -105,7 +107,9 @@
     "https://www.sports.ru/football/1117436481-ishkov-mozhet-perejti-v-lokomotiv-ili-rubin-ural-xochet-za-xavbeka-200.html",
     "https://www.sports.ru/football/1117436469-bernardu-o-sbornoj-portugalii-pri-zhezushe-komanda-vyrosla-i-stala-luc.html",
     "https://www.sports.ru/hockey/1117436298-torpedo-ishhet-varianty-obmena-vekkione.html",
-    "https://www.sport.ru/football/sbornaya-portugalii-predstavila-novyy-dizayn-7-go-nomera-posle-uhoda-ronaldu/article663681"
+    "https://www.sport.ru/football/sbornaya-portugalii-predstavila-novyy-dizayn-7-go-nomera-posle-uhoda-ronaldu/article663681",
+    "https://www.sport.ru/football/obladatel-kubka-uefa-obyyasnil-pochemu-ne-smotrit-rpl-i-dal-sovet-molodym-igrokam/article663668",
+    "https://www.sport.ru/tennis/andreeva-protiv-peguly-mirra-vpervye-sygraet-protiv-amerikanki-posle-skandala-na-/article663679"
   ],
   "sent_commentary_keys": []
 }
