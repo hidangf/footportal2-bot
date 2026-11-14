@@ -47,7 +47,10 @@
     "queue/20261114-091807-03.json",
     "queue/20261114-121446-01.json",
     "queue/20261114-121446-02.json",
-    "queue/20261114-121446-03.json"
+    "queue/20261114-121446-03.json",
+    "queue/20261114-152007-01.json",
+    "queue/20261114-152007-02.json",
+    "queue/20261114-152007-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -97,7 +100,10 @@
     "https://www.sports.ru/hockey/1117436128-kurri-o-shansax-makdevida-nabrat-200-ochkov-za-sezon-net-ni-odnogo-dov.html",
     "https://www.sports.ru/football/1117436306-46-letnij-ronaldino-sygraet-v-oficzialnom-matche-vpervye-za-11-let-bra.html",
     "https://www.sports.ru/football/1117436294-smorodskaya-o-rasshirenii-rpl-do-18-komand-budet-ne-zrelishhnost-a-sle.html",
-    "https://www.sports.ru/hockey/1117436245-neshvill-vyigral-7-matchej-podryad-vpervye-s-sezona-202324-komanda-bry.html"
+    "https://www.sports.ru/hockey/1117436245-neshvill-vyigral-7-matchej-podryad-vpervye-s-sezona-202324-komanda-bry.html",
+    "https://www.sports.ru/football/1117436481-ishkov-mozhet-perejti-v-lokomotiv-ili-rubin-ural-xochet-za-xavbeka-200.html",
+    "https://www.sports.ru/football/1117436469-bernardu-o-sbornoj-portugalii-pri-zhezushe-komanda-vyrosla-i-stala-luc.html",
+    "https://www.sports.ru/hockey/1117436298-torpedo-ishhet-varianty-obmena-vekkione.html"
   ],
   "sent_commentary_keys": []
 }
