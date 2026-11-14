@@ -44,7 +44,10 @@
     "queue/20261114-061449-03.json",
     "queue/20261114-091807-01.json",
     "queue/20261114-091807-02.json",
-    "queue/20261114-091807-03.json"
+    "queue/20261114-091807-03.json",
+    "queue/20261114-121446-01.json",
+    "queue/20261114-121446-02.json",
+    "queue/20261114-121446-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -91,7 +94,10 @@
     "https://www.sports.ru/basketball/1117435301-evroliga-panatinaikos-primet-barselonu-anadolu-efes-vstretitsya-s-virt.html",
     "https://www.sports.ru/football/1117436124-cherchesov-o-budushhem-nikakoj-ustalosti-net-gotov-i-dalshe-rabotat.html",
     "https://www.sports.ru/football/1117436122-trener-serbii-ob-13-zasluzhennaya-pobeda-germanii-no-po-kolichestvu-go.html",
-    "https://www.sports.ru/hockey/1117436128-kurri-o-shansax-makdevida-nabrat-200-ochkov-za-sezon-net-ni-odnogo-dov.html"
+    "https://www.sports.ru/hockey/1117436128-kurri-o-shansax-makdevida-nabrat-200-ochkov-za-sezon-net-ni-odnogo-dov.html",
+    "https://www.sports.ru/football/1117436306-46-letnij-ronaldino-sygraet-v-oficzialnom-matche-vpervye-za-11-let-bra.html",
+    "https://www.sports.ru/football/1117436294-smorodskaya-o-rasshirenii-rpl-do-18-komand-budet-ne-zrelishhnost-a-sle.html",
+    "https://www.sports.ru/hockey/1117436245-neshvill-vyigral-7-matchej-podryad-vpervye-s-sezona-202324-komanda-bry.html"
   ],
   "sent_commentary_keys": []
 }
