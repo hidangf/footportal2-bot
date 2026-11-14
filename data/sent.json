@@ -38,7 +38,10 @@
     "queue/20261114-001423-03.json",
     "queue/20261114-031744-01.json",
     "queue/20261114-031744-02.json",
-    "queue/20261114-031744-03.json"
+    "queue/20261114-031744-03.json",
+    "queue/20261114-061449-01.json",
+    "queue/20261114-061449-02.json",
+    "queue/20261114-061449-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -79,7 +82,10 @@
     "https://www.sports.ru/hockey/1117435918-ska-pri-razine-proigral-6-iz-10-matchej-segodnya-minskomu-dinamo-peter.html",
     "https://www.sports.ru/football/1117436066-valerij-karpin-semak-samyj-uspeshnyj-trener-dvux-mnenij-byt-ne-mozhet-.html",
     "https://www.sports.ru/football/1117436060-yuventusu-interesny-balde-iz-barselony-ait-nuri-iz-man-siti-i-udodzhi-.html",
-    "https://www.sports.ru/tennis/1117436046-andreeva-povtorila-rekord-enen-po-chislu-gejmov-proigrannyx-na-gruppov.html"
+    "https://www.sports.ru/tennis/1117436046-andreeva-povtorila-rekord-enen-po-chislu-gejmov-proigrannyx-na-gruppov.html",
+    "https://www.sports.ru/football/1117436061-u-kloppa-2-pobedy-v-5-matchax-vo-glave-sbornoj-germanii-obe-nad-serbam.html",
+    "https://www.sports.ru/football/blogs/3627228.html",
+    "https://www.sports.ru/basketball/1117435301-evroliga-panatinaikos-primet-barselonu-anadolu-efes-vstretitsya-s-virt.html"
   ],
   "sent_commentary_keys": []
 }
