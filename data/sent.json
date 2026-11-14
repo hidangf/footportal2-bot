@@ -35,7 +35,10 @@
     "queue/20261113-211910-03.json",
     "queue/20261114-001423-01.json",
     "queue/20261114-001423-02.json",
-    "queue/20261114-001423-03.json"
+    "queue/20261114-001423-03.json",
+    "queue/20261114-031744-01.json",
+    "queue/20261114-031744-02.json",
+    "queue/20261114-031744-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -73,7 +76,10 @@
     "https://www.sports.ru/tennis/1117435801-fricz-vyshel-v-25-j-final-v-karere.html",
     "https://www.sports.ru/football/1117435970-gari-lineker-fanaty-myu-godami-zhalovalis-na-glejzerov-i-pri-retkliffe.html",
     "https://www.sports.ru/football/1117435954-kazaxstan-ne-pobezhdaet-7-matchej-podryad-komanda-proigrala-moldove-vt.html",
-    "https://www.sports.ru/hockey/1117435918-ska-pri-razine-proigral-6-iz-10-matchej-segodnya-minskomu-dinamo-peter.html"
+    "https://www.sports.ru/hockey/1117435918-ska-pri-razine-proigral-6-iz-10-matchej-segodnya-minskomu-dinamo-peter.html",
+    "https://www.sports.ru/football/1117436066-valerij-karpin-semak-samyj-uspeshnyj-trener-dvux-mnenij-byt-ne-mozhet-.html",
+    "https://www.sports.ru/football/1117436060-yuventusu-interesny-balde-iz-barselony-ait-nuri-iz-man-siti-i-udodzhi-.html",
+    "https://www.sports.ru/tennis/1117436046-andreeva-povtorila-rekord-enen-po-chislu-gejmov-proigrannyx-na-gruppov.html"
   ],
   "sent_commentary_keys": []
 }
