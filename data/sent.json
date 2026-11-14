@@ -41,7 +41,10 @@
     "queue/20261114-031744-03.json",
     "queue/20261114-061449-01.json",
     "queue/20261114-061449-02.json",
-    "queue/20261114-061449-03.json"
+    "queue/20261114-061449-03.json",
+    "queue/20261114-091807-01.json",
+    "queue/20261114-091807-02.json",
+    "queue/20261114-091807-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -85,7 +88,10 @@
     "https://www.sports.ru/tennis/1117436046-andreeva-povtorila-rekord-enen-po-chislu-gejmov-proigrannyx-na-gruppov.html",
     "https://www.sports.ru/football/1117436061-u-kloppa-2-pobedy-v-5-matchax-vo-glave-sbornoj-germanii-obe-nad-serbam.html",
     "https://www.sports.ru/football/blogs/3627228.html",
-    "https://www.sports.ru/basketball/1117435301-evroliga-panatinaikos-primet-barselonu-anadolu-efes-vstretitsya-s-virt.html"
+    "https://www.sports.ru/basketball/1117435301-evroliga-panatinaikos-primet-barselonu-anadolu-efes-vstretitsya-s-virt.html",
+    "https://www.sports.ru/football/1117436124-cherchesov-o-budushhem-nikakoj-ustalosti-net-gotov-i-dalshe-rabotat.html",
+    "https://www.sports.ru/football/1117436122-trener-serbii-ob-13-zasluzhennaya-pobeda-germanii-no-po-kolichestvu-go.html",
+    "https://www.sports.ru/hockey/1117436128-kurri-o-shansax-makdevida-nabrat-200-ochkov-za-sezon-net-ni-odnogo-dov.html"
   ],
   "sent_commentary_keys": []
 }
