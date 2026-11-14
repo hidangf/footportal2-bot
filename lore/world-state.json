@@ -812,6 +812,59 @@
         "queue/20261114-091807-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "flamengo-santos-ronaldinho",
+      "title": "«Фламенго» обыграл «Сантос» 2:1",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Фламенго» победил «Сантос» 2:1 в 18-м туре чемпионата Бразилии.",
+        "Голы забили Вагнер Лав и Роналдиньо; победный гол Роналдиньо со штрафного на 76-й минуте.",
+        "Следующий соперник — «Коринтианс»."
+      ],
+      "source_posts": [
+        "queue/20261114-121446-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "amkar-smorodskaya",
+      "title": "Смородская стала советником в «Амкаре»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Ольга Смородская назначена советником гендиректора пермского «Амкара».",
+        "Отвечает за подготовку команды к Первой лиге, обсудила с Рашидом Рахимовым список из 18 футболистов на зимние сборы."
+      ],
+      "source_posts": [
+        "queue/20261114-121446-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "nashville-columbus-playoffs",
+      "title": "«Нэшвилл» уступил «Коламбусу» в седьмом матче серии",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Нэшвилл» проиграл «Коламбусу» 1:3 в седьмом матче четвертьфинала Кубка Стэнли.",
+        "Форсберг забил единственную шайбу «Нэшвилла», Рик Нэш оформил дубль за «Коламбус».",
+        "«Коламбус» вышел в полуфинал Восточной конференции против «Бостона»."
+      ],
+      "source_posts": [
+        "queue/20261114-121446-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
