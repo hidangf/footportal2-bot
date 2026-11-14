@@ -760,6 +760,58 @@
       "source_posts": [
         "queue/20261114-061449-03.json"
       ]
+    },
+    {
+      "id": "krylya-cherchesov-academy",
+      "title": "Черчесов возглавил академию «Крыльев Советов»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Станислав Черчесов назначен директором академии «Крыльев Советов».",
+        "Приступит к работе после осенней части сезона; планирует представить план подготовки вратарей."
+      ],
+      "source_posts": [
+        "queue/20261114-091807-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "switzerland-croatia-44",
+      "title": "Ничья Швейцарии и Хорватии 4:4",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "Швейцария и Хорватия сыграли 4:4 в шестом туре отбора Евро.",
+        "Шакири забил дважды; у Хорватии отличились Манджукич, Перишич и Калинич."
+      ],
+      "source_posts": [
+        "queue/20261114-091807-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "edmonton-kurri-double",
+      "title": "Дубль Курри в матче «Эдмонтона» с «Торонто»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "match_or_appointment",
+      "started_at": "2026-11-14",
+      "last_mentioned_at": "2026-11-14",
+      "established_facts": [
+        "«Эдмонтон» победил «Торонто» 3:1.",
+        "Яри Курри забросил две шайбы, Ньюджент-Хопкинс — одну.",
+        "Следующий соперник «Эдмонтона» — «Оттава»."
+      ],
+      "source_posts": [
+        "queue/20261114-091807-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
