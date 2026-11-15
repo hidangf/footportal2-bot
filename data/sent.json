@@ -80,7 +80,10 @@
     "queue/20261115-181247-03.json",
     "queue/20261115-212019-01.json",
     "queue/20261115-212019-02.json",
-    "queue/20261115-212019-03.json"
+    "queue/20261115-212019-03.json",
+    "queue/20261116-001943-01.json",
+    "queue/20261116-001943-02.json",
+    "queue/20261116-001943-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -163,7 +166,10 @@
     "https://www.sports.ru/football/1117437642-de-jong-odin-iz-samyx-umnyx-igrokov-v-sovremennom-futbole-on-iz-tex-ch.html",
     "https://www.sports.ru/football/1117437321-winline-superserii-zenit-protiv-trabzonspora.html",
     "https://www.sports.ru/football/1117437547-kipr-chernogoriya-smotret-onlajn-pryamuyu-translyacziyu-matcha-15-noya.html",
-    "https://www.sports.ru/hockey/1117437678-metallurg-proigral-4-iz-6-poslednix-matchej-segodnya-barysu.html"
+    "https://www.sports.ru/hockey/1117437678-metallurg-proigral-4-iz-6-poslednix-matchej-segodnya-barysu.html",
+    "https://www.sport.ru/football/trener-trabzonspora-sprognoziroval-rezultat-zenita-v-evrokubkah/article663783",
+    "https://www.sport.ru/football/ronaldino-v-46-let-sdelal-predgolevuyu-peredachu-v-chempionate-italii/article663782",
+    "https://www.sport.ru/hockey/edinstvennaya-shayba-reshila-ishod-protivostoyaniya-mejdu-torpedo-i-minskim-/article663778"
   ],
   "sent_commentary_keys": []
 }
