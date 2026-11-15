@@ -1141,6 +1141,92 @@
       "source_posts": [
         "queue/20261115-091708-03.json"
       ]
+    },
+    {
+      "id": "lokomotiv-tom-cup-loskov",
+      "title": "Ничья «Локомотива» с «Томью» в Кубке России",
+      "sport": "football",
+      "status": "open",
+      "stage": "first_leg_completed",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "«Локомотив» сыграл 1:1 с «Томью» в первом четвертьфинале Кубка России.",
+        "Забили Лоськов и Корниленко; ответная встреча назначена на 23 ноября, Ещенко дисквалифицирован."
+      ],
+      "source_posts": [
+        "queue/20261115-121239-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "spain-netherlands-friendly-announcement",
+      "title": "Испания анонсировала матч с Нидерландами",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_announced",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "Испания анонсировала товарищескую встречу с Нидерландами в Мадриде на 22:45.",
+        "В заявке Касильяс, Рамос, Хави, Давид Сильва, Торрес; тренер Дель Боске."
+      ],
+      "source_posts": [
+        "queue/20261115-121239-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "cska-rubin-glazurin",
+      "title": "ЦСКА обыграл «Рубин» благодаря Глазурину",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "ЦСКА победил «Рубин» 1:0, гол Роберта Глазурина на 63-й минуте.",
+        "ЦСКА набрал 27 очков и поднялся на четвёртое место, «Рубин» остался седьмым.",
+        "После победы над «Рубином» ЦСКА перевёл Гонду на правый фланг полузащиты, где он тренировался рядом с Дзагоевым."
+      ],
+      "source_posts": [
+        "queue/20261115-121239-03.json",
+        "queue/20261115-152024-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "galatasaray-besiktas-sneijder",
+      "title": "«Галатасарай» победил «Бешикташ»",
+      "sport": "football",
+      "status": "open",
+      "stage": "match_completed",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "«Галатасарай» победил «Бешикташ» 2:0, голы Снейдера и Бурака Йылмаза.",
+        "Команда набрала 32 очка и вышла на второе место."
+      ],
+      "source_posts": [
+        "queue/20261115-152024-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "jesus-olympiacos-rumor",
+      "title": "«Олимпиакос» рассматривает Жезуша",
+      "sport": "football",
+      "status": "open",
+      "stage": "rumor",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "«Олимпиакос» рассматривает Жорже Жезуша кандидатом на пост главного тренера, назначения пока нет."
+      ],
+      "source_posts": [
+        "queue/20261115-152024-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
