@@ -65,7 +65,10 @@
     "queue/20261115-032106-03.json",
     "queue/20261115-062110-01.json",
     "queue/20261115-062110-02.json",
-    "queue/20261115-062110-03.json"
+    "queue/20261115-062110-03.json",
+    "queue/20261115-091708-01.json",
+    "queue/20261115-091708-02.json",
+    "queue/20261115-091708-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -133,7 +136,10 @@
     "https://www.sports.ru/hockey/1117436965-svechnikov-nabral-ochki-v-10-m-matche-podryad-v-igre-s-sietom-v-xelsin.html",
     "https://www.sports.ru/football/1117437148-batrakov-otlichnaya-reklama-rossijskogo-futbola-v-evrope-na-drugix-nas.html",
     "https://www.sports.ru/football/1117437134-trener-danii-rimer-o-41-s-portugaliej-nash-pressing-byl-na-vysokom-uro.html",
-    "https://www.sports.ru/football/1117437055-venger-otkazalsya-ballotirovatsya-v-prezidenty-fifa-predstaviteli-orga.html"
+    "https://www.sports.ru/football/1117437055-venger-otkazalsya-ballotirovatsya-v-prezidenty-fifa-predstaviteli-orga.html",
+    "https://www.sports.ru/football/1117437029-rajs-o-zolotom-myache-ispanczy-za-yamalya-i-on-eshhe-poluchit-priz-no-.html",
+    "https://www.sports.ru/football/1117437131-xejlund-zabil-dvazhdy-portugalii-u-forvarda-danii-5-golov-v-5-matchax-.html",
+    "https://www.sports.ru/hockey/1117437145-voronkov-zabil-1-j-gol-v-sezone-v-matche-s-filadelfiej-u-forvarda-kola.html"
   ],
   "sent_commentary_keys": []
 }
