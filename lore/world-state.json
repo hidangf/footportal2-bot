@@ -1298,6 +1298,57 @@
         "queue/20261115-181247-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "zenit-anderlecht-draw",
+      "title": "«Зенит» — «Андерлехт» 2:2",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "«Зенит» сыграл 2:2 с «Андерлехтом» в товарищеском матче; голы Кержакова и Витселя, Лукаку сравнял на 84-й минуте.",
+        "Следующим соперником «Зенита» назван «Ростов» в 19-м туре."
+      ],
+      "source_posts": [
+        "queue/20261115-212019-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "montenegro-savic-captain",
+      "title": "Савич стал капитаном Черногории",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "Стефан Савич получил капитанскую повязку сборной Черногории и будет играть в центре полузащиты с Вучиничем.",
+        "Черногория ранее проиграла Словении 0:1, идёт третьей с 7 очками."
+      ],
+      "source_posts": [
+        "queue/20261115-212019-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "metallurg-neftekhimik-mozyakin",
+      "title": "«Металлург» обыграл «Нефтехимик» 3:1",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-15",
+      "last_mentioned_at": "2026-11-15",
+      "established_facts": [
+        "«Металлург» победил «Нефтехимик» 3:1; Мозякин забросил дважды, Зарипов один раз, у гостей отличился Радулов.",
+        "После 27 игр «Металлург» набрал 39 очков и объявлен вторым на Западе."
+      ],
+      "source_posts": [
+        "queue/20261115-212019-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
