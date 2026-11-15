@@ -68,7 +68,10 @@
     "queue/20261115-062110-03.json",
     "queue/20261115-091708-01.json",
     "queue/20261115-091708-02.json",
-    "queue/20261115-091708-03.json"
+    "queue/20261115-091708-03.json",
+    "queue/20261115-121239-01.json",
+    "queue/20261115-121239-02.json",
+    "queue/20261115-121239-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -139,7 +142,10 @@
     "https://www.sports.ru/football/1117437055-venger-otkazalsya-ballotirovatsya-v-prezidenty-fifa-predstaviteli-orga.html",
     "https://www.sports.ru/football/1117437029-rajs-o-zolotom-myache-ispanczy-za-yamalya-i-on-eshhe-poluchit-priz-no-.html",
     "https://www.sports.ru/football/1117437131-xejlund-zabil-dvazhdy-portugalii-u-forvarda-danii-5-golov-v-5-matchax-.html",
-    "https://www.sports.ru/hockey/1117437145-voronkov-zabil-1-j-gol-v-sezone-v-matche-s-filadelfiej-u-forvarda-kola.html"
+    "https://www.sports.ru/hockey/1117437145-voronkov-zabil-1-j-gol-v-sezone-v-matche-s-filadelfiej-u-forvarda-kola.html",
+    "https://www.sports.ru/football/1117437207-eshhenko-budet-uchitsya-na-liczenziyu-pro-gotov-byt-pomoshhnikom-v-lok.html",
+    "https://www.sports.ru/football/1117437254-ispaniya-primet-angliyu-v-6-m-ture-ligi-naczij-nachalo-matcha-v-2245.html",
+    "https://www.sports.ru/football/1117437284-kechinov-o-favoritax-rpl-spartak-zenit-i-dinamo-stabilnee-vsex-po-rezu.html"
   ],
   "sent_commentary_keys": []
 }
