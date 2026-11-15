@@ -59,7 +59,10 @@
     "queue/20261114-211700-03.json",
     "queue/20261115-001410-01.json",
     "queue/20261115-001410-02.json",
-    "queue/20261115-001410-03.json"
+    "queue/20261115-001410-03.json",
+    "queue/20261115-032106-01.json",
+    "queue/20261115-032106-02.json",
+    "queue/20261115-032106-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -121,7 +124,10 @@
     "https://www.sports.ru/hockey/1117436489-savikov-pro-14-ot-minskogo-dinamo-ska-sygral-otvratitelno-kazhdomu-nuz.html",
     "https://www.sports.ru/football/1117437004-dokeresh-zabil-za-shvecziyu-v-5-m-matche-podryad-za-arsenal-v-apl-golo.html",
     "https://www.sports.ru/football/1117436931-agent-tyukavina-u-kosti-sereznye-dogovorennosti-s-dinamo-on-ne-budet-s.html",
-    "https://www.sports.ru/football/1117437016-matvej-safonov-mog-by-svyazat-budushhee-s-matematikoj-esli-by-ne-sport.html"
+    "https://www.sports.ru/football/1117437016-matvej-safonov-mog-by-svyazat-budushhee-s-matematikoj-esli-by-ne-sport.html",
+    "https://www.sports.ru/football/1117437020-laporta-o-krojffe-on-sformiroval-identichnost-barsy-vladenie-igra-v-at.html",
+    "https://www.sports.ru/football/1117436910-sbornaya-gruzii-proigrala-vengrii-v-lige-naczij-i-prodlila-bezvyigrysh.html",
+    "https://www.sports.ru/hockey/1117436965-svechnikov-nabral-ochki-v-10-m-matche-podryad-v-igre-s-sietom-v-xelsin.html"
   ],
   "sent_commentary_keys": []
 }
