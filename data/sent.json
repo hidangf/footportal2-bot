@@ -74,7 +74,10 @@
     "queue/20261115-121239-03.json",
     "queue/20261115-152024-01.json",
     "queue/20261115-152024-02.json",
-    "queue/20261115-152024-03.json"
+    "queue/20261115-152024-03.json",
+    "queue/20261115-181247-01.json",
+    "queue/20261115-181247-02.json",
+    "queue/20261115-181247-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -151,7 +154,10 @@
     "https://www.sports.ru/football/1117437284-kechinov-o-favoritax-rpl-spartak-zenit-i-dinamo-stabilnee-vsex-po-rezu.html",
     "https://www.sport.ru/football/tashuev-schitaet-chto-gondu-i-musaev-ne-zaslujivayut-kritiki/article663736",
     "https://www.sport.ru/football/smorodskaya-otvetila-obyektiven-li-ajiotaj-vokrug-batrakova/article663729",
-    "https://www.sport.ru/football/zachem-skuchat-po-ronaldu-jezush-posle-porajeniya-portugalii-ot-danii/article663725"
+    "https://www.sport.ru/football/zachem-skuchat-po-ronaldu-jezush-posle-porajeniya-portugalii-ot-danii/article663725",
+    "https://www.sports.ru/football/1117437688-origi-o-zavershenii-karery-v-31-god-zhizn-ne-tolko-sport-zaxotel-razvi.html",
+    "https://www.sports.ru/football/1117437594-ovchinnikov-mozhet-stat-i-o-glavnogo-trenera-lokomotiva-v-ego-shtab-pl.html",
+    "https://www.sports.ru/football/1117437642-de-jong-odin-iz-samyx-umnyx-igrokov-v-sovremennom-futbole-on-iz-tex-ch.html"
   ],
   "sent_commentary_keys": []
 }
