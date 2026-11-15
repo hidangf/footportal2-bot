@@ -62,7 +62,10 @@
     "queue/20261115-001410-03.json",
     "queue/20261115-032106-01.json",
     "queue/20261115-032106-02.json",
-    "queue/20261115-032106-03.json"
+    "queue/20261115-032106-03.json",
+    "queue/20261115-062110-01.json",
+    "queue/20261115-062110-02.json",
+    "queue/20261115-062110-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -127,7 +130,10 @@
     "https://www.sports.ru/football/1117437016-matvej-safonov-mog-by-svyazat-budushhee-s-matematikoj-esli-by-ne-sport.html",
     "https://www.sports.ru/football/1117437020-laporta-o-krojffe-on-sformiroval-identichnost-barsy-vladenie-igra-v-at.html",
     "https://www.sports.ru/football/1117436910-sbornaya-gruzii-proigrala-vengrii-v-lige-naczij-i-prodlila-bezvyigrysh.html",
-    "https://www.sports.ru/hockey/1117436965-svechnikov-nabral-ochki-v-10-m-matche-podryad-v-igre-s-sietom-v-xelsin.html"
+    "https://www.sports.ru/hockey/1117436965-svechnikov-nabral-ochki-v-10-m-matche-podryad-v-igre-s-sietom-v-xelsin.html",
+    "https://www.sports.ru/football/1117437148-batrakov-otlichnaya-reklama-rossijskogo-futbola-v-evrope-na-drugix-nas.html",
+    "https://www.sports.ru/football/1117437134-trener-danii-rimer-o-41-s-portugaliej-nash-pressing-byl-na-vysokom-uro.html",
+    "https://www.sports.ru/football/1117437055-venger-otkazalsya-ballotirovatsya-v-prezidenty-fifa-predstaviteli-orga.html"
   ],
   "sent_commentary_keys": []
 }
