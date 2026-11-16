@@ -95,7 +95,9 @@
     "queue/20261116-091651-03.json",
     "queue/20261116-122719-01.json",
     "queue/20261116-122719-02.json",
-    "queue/20261116-122719-03.json"
+    "queue/20261116-122719-03.json",
+    "queue/20261116-182231-01.json",
+    "queue/20261116-182231-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -193,7 +195,9 @@
     "https://www.sports.ru/hockey/1117438107-razin-o-9-m-meste-ska-sdelayu-vse-chtoby-my-ne-tolko-popali-v-plej-off.html",
     "https://www.sports.ru/football/1117438392-anchelotti-o-romario-prizvavshem-ego-provalivat-iz-sbornoj-on-mnogo-go.html",
     "https://www.sports.ru/football/1117438365-enrike-o-soboleve-on-vpolne-mozhet-stat-luchshim-bombardirom-rpl-sasha.html",
-    "https://www.sports.ru/football/1117438344-gendirektor-dinamo-oproverg-chto-klub-ne-prodlit-kontrakt-s-chavesom-t.html"
+    "https://www.sports.ru/football/1117438344-gendirektor-dinamo-oproverg-chto-klub-ne-prodlit-kontrakt-s-chavesom-t.html",
+    "https://sport.ua/news/925515-press-konferentsiya-maldery-v-koshitse-smotret-onlayn-live-translyatsiya",
+    "https://www.sport.ru/tennis/medvedev-provalil-start-itogovogo-turnira-rossiyanin-otygral-4-matchbola-no-vse-/article663831"
   ],
   "sent_commentary_keys": []
 }
