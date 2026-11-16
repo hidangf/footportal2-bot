@@ -92,7 +92,10 @@
     "queue/20261116-061630-03.json",
     "queue/20261116-091651-01.json",
     "queue/20261116-091651-02.json",
-    "queue/20261116-091651-03.json"
+    "queue/20261116-091651-03.json",
+    "queue/20261116-122719-01.json",
+    "queue/20261116-122719-02.json",
+    "queue/20261116-122719-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -187,7 +190,10 @@
     "https://www.sports.ru/football/1117438169-zidan-o-mbappe-protiv-turczii-zasluzhival-dvux-trex-golov-sam-sozdaval.html",
     "https://www.sports.ru/football/1117438180-barella-ob-14-s-belgiej-italiya-ne-mozhet-pozvolit-sebe-igrat-v-nizkom.html",
     "https://www.sports.ru/football/1117438140-tomas-tuxel-angliya-pokazala-iz-chego-sdelana-i-na-chto-sposobna-u-nas.html",
-    "https://www.sports.ru/hockey/1117438107-razin-o-9-m-meste-ska-sdelayu-vse-chtoby-my-ne-tolko-popali-v-plej-off.html"
+    "https://www.sports.ru/hockey/1117438107-razin-o-9-m-meste-ska-sdelayu-vse-chtoby-my-ne-tolko-popali-v-plej-off.html",
+    "https://www.sports.ru/football/1117438392-anchelotti-o-romario-prizvavshem-ego-provalivat-iz-sbornoj-on-mnogo-go.html",
+    "https://www.sports.ru/football/1117438365-enrike-o-soboleve-on-vpolne-mozhet-stat-luchshim-bombardirom-rpl-sasha.html",
+    "https://www.sports.ru/football/1117438344-gendirektor-dinamo-oproverg-chto-klub-ne-prodlit-kontrakt-s-chavesom-t.html"
   ],
   "sent_commentary_keys": []
 }
