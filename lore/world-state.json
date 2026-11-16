@@ -1400,6 +1400,57 @@
         "queue/20261116-001943-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "everton-sunderland-salah",
+      "title": "«Эвертон» — «Сандерленд» 1:1",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "«Эвертон» сыграл 1:1 с «Сандерлендом» в 18-м туре; Салах забил за «Эвертон».",
+        "«Эвертон» набрал 23 очка и идёт 11-м, следующий соперник «Фулхэм»."
+      ],
+      "source_posts": [
+        "queue/20261116-031426-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "ajax-xavi-porto",
+      "title": "Хави тренирует «Аякс» перед матчем с «Порту»",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "Хави объявил о подготовке «Аякса» к игре с «Порту»; в старте Блинд, де Йонг и Хунтелар.",
+        "После четырёх туров «Аякс» третий с семью очками."
+      ],
+      "source_posts": [
+        "queue/20261116-031426-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "colorado-vancouver-burns",
+      "title": "«Колорадо» победил «Ванкувер»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "«Колорадо» победил «Ванкувер» 3:1, Бернс сделал две передачи, Ландескуг забил победную шайбу.",
+        "«Колорадо» с 28 очками объявлен пятым на Востоке."
+      ],
+      "source_posts": [
+        "queue/20261116-031426-03.json"
+      ],
+      "optional_continuations": []
     }
   ],
   "crossings": [],
