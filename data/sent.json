@@ -89,7 +89,10 @@
     "queue/20261116-031426-03.json",
     "queue/20261116-061630-01.json",
     "queue/20261116-061630-02.json",
-    "queue/20261116-061630-03.json"
+    "queue/20261116-061630-03.json",
+    "queue/20261116-091651-01.json",
+    "queue/20261116-091651-02.json",
+    "queue/20261116-091651-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -181,7 +184,10 @@
     "https://www.sports.ru/hockey/1117438051-berns-stal-14-m-igrokom-v-istorii-nxl-sygravshim-1600-matchej-v-lige.html",
     "https://www.sports.ru/football/1117438185-perishich-o-lige-naczij-xorvatiya-dolzhna-izvlech-uroki-iz-chetyrex-ma.html",
     "https://www.sports.ru/football/1117438173-krugovoj-o-tom-chto-czska-perestal-proigryvat-pervye-matchi-posle-pauz.html",
-    "https://www.sports.ru/football/1117438169-zidan-o-mbappe-protiv-turczii-zasluzhival-dvux-trex-golov-sam-sozdaval.html"
+    "https://www.sports.ru/football/1117438169-zidan-o-mbappe-protiv-turczii-zasluzhival-dvux-trex-golov-sam-sozdaval.html",
+    "https://www.sports.ru/football/1117438180-barella-ob-14-s-belgiej-italiya-ne-mozhet-pozvolit-sebe-igrat-v-nizkom.html",
+    "https://www.sports.ru/football/1117438140-tomas-tuxel-angliya-pokazala-iz-chego-sdelana-i-na-chto-sposobna-u-nas.html",
+    "https://www.sports.ru/hockey/1117438107-razin-o-9-m-meste-ska-sdelayu-vse-chtoby-my-ne-tolko-popali-v-plej-off.html"
   ],
   "sent_commentary_keys": []
 }
