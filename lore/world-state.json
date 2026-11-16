@@ -1601,6 +1601,38 @@
       "source_posts": [
         "queue/20261116-122719-03.json"
       ]
+    },
+    {
+      "id": "verona-maldera-appointment",
+      "title": "Мальдера назначен тренером «Вероны»",
+      "sport": "football",
+      "status": "open",
+      "stage": "appointed",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "Андреа Мальдера достиг соглашения с «Вероной» и возглавит команду до конца сезона после матча сборной Грузии.",
+        "После 13 туров «Верона» шестнадцатая с 12 очками."
+      ],
+      "source_posts": [
+        "queue/20261116-182231-01.json"
+      ]
+    },
+    {
+      "id": "medvedev-rotterdam-nishikori",
+      "title": "Медведев победил Нисикори в Роттердаме",
+      "sport": "tennis",
+      "status": "open",
+      "stage": "quarterfinal",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "Даниил Медведев победил Кэя Нисикори 6:4, 7:6 в Роттердаме и вышел в четвертьфинал.",
+        "Следующим соперником назван Жо-Вильфрид Цонга; встреча назначена на пятницу."
+      ],
+      "source_posts": [
+        "queue/20261116-182231-02.json"
+      ]
     }
   ],
   "crossings": [],
