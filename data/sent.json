@@ -83,7 +83,10 @@
     "queue/20261115-212019-03.json",
     "queue/20261116-001943-01.json",
     "queue/20261116-001943-02.json",
-    "queue/20261116-001943-03.json"
+    "queue/20261116-001943-03.json",
+    "queue/20261116-031426-01.json",
+    "queue/20261116-031426-02.json",
+    "queue/20261116-031426-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -169,7 +172,10 @@
     "https://www.sports.ru/hockey/1117437678-metallurg-proigral-4-iz-6-poslednix-matchej-segodnya-barysu.html",
     "https://www.sport.ru/football/trener-trabzonspora-sprognoziroval-rezultat-zenita-v-evrokubkah/article663783",
     "https://www.sport.ru/football/ronaldino-v-46-let-sdelal-predgolevuyu-peredachu-v-chempionate-italii/article663782",
-    "https://www.sport.ru/hockey/edinstvennaya-shayba-reshila-ishod-protivostoyaniya-mejdu-torpedo-i-minskim-/article663778"
+    "https://www.sport.ru/hockey/edinstvennaya-shayba-reshila-ishod-protivostoyaniya-mejdu-torpedo-i-minskim-/article663778",
+    "https://www.sports.ru/football/1117436095-salax-stal-luchshim-bombardirom-v-istorii-sbornoj-egipta-s-70-golami.html",
+    "https://www.sports.ru/football/1117436094-xavi-pro-70-s-grecziej-pervyj-tajm-idealnyj-primer-togo-kak-nado-igrat.html",
+    "https://www.sports.ru/hockey/1117438051-berns-stal-14-m-igrokom-v-istorii-nxl-sygravshim-1600-matchej-v-lige.html"
   ],
   "sent_commentary_keys": []
 }
