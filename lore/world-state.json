@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "universe": "ФУТПОРТАЛ 2",
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "season": "2026/27",
   "description": "Это художественная, вымышленная спортивная реальность. Канон — только факты, действительно опубликованные в Telegram и отмеченные в data/sent.json. Черновики из чата не канон.",
   "arcs": [
@@ -1347,6 +1347,57 @@
       ],
       "source_posts": [
         "queue/20261115-212019-03.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "bordeaux-lens-gourcuff",
+      "title": "«Бордо» победил «Ланс»",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "«Бордо» победил «Ланс» 2:0 в 16-м туре; забили Йоан Гуркюфф и Маруан Шамах.",
+        "После игры у «Бордо» 26 очков и седьмое место, следующий соперник «Монако»."
+      ],
+      "source_posts": [
+        "queue/20261116-001943-01.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "ronaldinho-santos-director",
+      "title": "Роналдиньо назначен спортивным директором «Сантоса»",
+      "sport": "football",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "«Сантос» объявил о назначении Роналдиньо спортивным директором, его обязанности включают молодежные команды и переговоры.",
+        "Клуб намерен завершить изменения состава до конца ноября."
+      ],
+      "source_posts": [
+        "queue/20261116-001943-02.json"
+      ],
+      "optional_continuations": []
+    },
+    {
+      "id": "salavat-avtomobilist-win",
+      "title": "«Салават Юлаев» обыграл «Автомобилист»",
+      "sport": "hockey",
+      "status": "open",
+      "stage": "reported",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "«Салават Юлаев» победил «Автомобилист» 2:1; голы Радулова и Хартикайнена.",
+        "Уфимцы набрали 35 очков за 25 матчей и занимают четвертое место на Востоке."
+      ],
+      "source_posts": [
+        "queue/20261116-001943-03.json"
       ],
       "optional_continuations": []
     }
