@@ -86,7 +86,10 @@
     "queue/20261116-001943-03.json",
     "queue/20261116-031426-01.json",
     "queue/20261116-031426-02.json",
-    "queue/20261116-031426-03.json"
+    "queue/20261116-031426-03.json",
+    "queue/20261116-061630-01.json",
+    "queue/20261116-061630-02.json",
+    "queue/20261116-061630-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -175,7 +178,10 @@
     "https://www.sport.ru/hockey/edinstvennaya-shayba-reshila-ishod-protivostoyaniya-mejdu-torpedo-i-minskim-/article663778",
     "https://www.sports.ru/football/1117436095-salax-stal-luchshim-bombardirom-v-istorii-sbornoj-egipta-s-70-golami.html",
     "https://www.sports.ru/football/1117436094-xavi-pro-70-s-grecziej-pervyj-tajm-idealnyj-primer-togo-kak-nado-igrat.html",
-    "https://www.sports.ru/hockey/1117438051-berns-stal-14-m-igrokom-v-istorii-nxl-sygravshim-1600-matchej-v-lige.html"
+    "https://www.sports.ru/hockey/1117438051-berns-stal-14-m-igrokom-v-istorii-nxl-sygravshim-1600-matchej-v-lige.html",
+    "https://www.sports.ru/football/1117438185-perishich-o-lige-naczij-xorvatiya-dolzhna-izvlech-uroki-iz-chetyrex-ma.html",
+    "https://www.sports.ru/football/1117438173-krugovoj-o-tom-chto-czska-perestal-proigryvat-pervye-matchi-posle-pauz.html",
+    "https://www.sports.ru/football/1117438169-zidan-o-mbappe-protiv-turczii-zasluzhival-dvux-trex-golov-sam-sozdaval.html"
   ],
   "sent_commentary_keys": []
 }
