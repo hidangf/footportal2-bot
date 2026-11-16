@@ -1553,6 +1553,54 @@
         "queue/20261116-091651-03.json"
       ],
       "optional_continuations": []
+    },
+    {
+      "id": "fiorentina-ancelotti-romario",
+      "title": "Анчелотти возглавил «Фиорентину»",
+      "sport": "football",
+      "status": "open",
+      "stage": "appointed",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "Карло Анчелотти назначен тренером «Фиорентины» после ничьей 1:1 с «Болоньей».",
+        "Ромарио отвечает за подготовку нападающих; «Фиорентина» десятая."
+      ],
+      "source_posts": [
+        "queue/20261116-122719-01.json"
+      ]
+    },
+    {
+      "id": "zenit-rostov-sobolev",
+      "title": "Подготовка «Зенита» к «Ростову»",
+      "sport": "football",
+      "status": "open",
+      "stage": "preparation",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "После ничьей с «Андерлехтом» Кержаков остаётся в основе, Соболев переведён на левый фланг перед матчем с «Ростовом».",
+        "Луис Энрике пропустит предматчевую тренировку."
+      ],
+      "source_posts": [
+        "queue/20261116-122719-02.json"
+      ]
+    },
+    {
+      "id": "chavez-celta-transfer",
+      "title": "Переход Луиса Чавеса в «Сельту»",
+      "sport": "football",
+      "status": "open",
+      "stage": "signed",
+      "started_at": "2026-11-16",
+      "last_mentioned_at": "2026-11-16",
+      "established_facts": [
+        "Луис Чавес подписал контракт с «Сельтой» до конца сезона с возможностью продления.",
+        "«Сельта» намерена использовать Чавеса центральным защитником."
+      ],
+      "source_posts": [
+        "queue/20261116-122719-03.json"
+      ]
     }
   ],
   "crossings": [],
