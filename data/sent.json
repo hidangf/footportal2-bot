@@ -106,7 +106,10 @@
     "queue/20261117-001514-03.json",
     "queue/20261117-031218-01.json",
     "queue/20261117-031218-02.json",
-    "queue/20261117-031218-03.json"
+    "queue/20261117-031218-03.json",
+    "queue/20261117-062000-01.json",
+    "queue/20261117-062000-02.json",
+    "queue/20261117-062000-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -215,7 +218,10 @@
     "https://www.championat.com/hockey/news-6702122-kozlov-o-pobede-salavata-nad-admiralom-v-koncovke-na-zubah-vytaschili-etot-match.html",
     "https://www.sports.ru/football/1117439090-lokomotiv-i-galaktionov-soglasovali-rastorzhenie-kontrakta-ovchinnikov.html",
     "https://www.sports.ru/football/1117438756-diveev-za-rasshirenie-rpl-do-18-komand-bolshe-igr-bolshe-zritelej-dlya.html",
-    "https://www.sports.ru/tennis/1117438711-alkaras-o-razgrome-tiafu-na-starte-itogovogo-nikogda-ne-chuvstvoval-se.html"
+    "https://www.sports.ru/tennis/1117438711-alkaras-o-razgrome-tiafu-na-starte-itogovogo-nikogda-ne-chuvstvoval-se.html",
+    "https://www.sports.ru/football/1117439134-balaxnin-o-lokomotive-ne-kazhdyj-xoroshij-trener-tuda-pojdet-problema-.html",
+    "https://www.sports.ru/football/1117439123-virtcz-o-70-s-niderlandami-dostojnyj-zavershayushhij-akkord-goda-germa.html",
+    "https://www.sports.ru/hockey/1117439092-gendirektor-sibiri-pro-galchenyuka-nam-nuzhen-byl-lider-na-ldu-i-v-raz.html"
   ],
   "sent_commentary_keys": []
 }
