@@ -112,7 +112,10 @@
     "queue/20261117-062000-03.json",
     "queue/20261117-091516-01.json",
     "queue/20261117-091516-02.json",
-    "queue/20261117-091516-03.json"
+    "queue/20261117-091516-03.json",
+    "queue/20261117-121347-01.json",
+    "queue/20261117-121347-02.json",
+    "queue/20261117-121347-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -227,7 +230,10 @@
     "https://www.sports.ru/hockey/1117439092-gendirektor-sibiri-pro-galchenyuka-nam-nuzhen-byl-lider-na-ldu-i-v-raz.html",
     "https://www.sports.ru/football/1117439179-agkaczev-o-chate-s-safonovym-vsegda-interesno-obshhatsya-s-temi-kto-ig.html",
     "https://www.sports.ru/football/1117439170-gaczkan-o-progresse-rostova-pri-kirichenko-popravili-standarty-v-press.html",
-    "https://www.sports.ru/football/1117439162-leonchenko-o-tom-chto-leonid-sobolev-postroil-stadion-torpedo-za-svoi-.html"
+    "https://www.sports.ru/football/1117439162-leonchenko-o-tom-chto-leonid-sobolev-postroil-stadion-torpedo-za-svoi-.html",
+    "https://www.championat.com/football/news-6702480-safonov-otvetil-zhurnalistu-o-matche-sezona-kotoryj-prinyos-naibolshee-udovolstvie.html",
+    "https://www.championat.com/football/news-6702470-skaloni-otvetil-na-vopros-o-messi-v-trenerskom-shtabe-argentiny-k-chm-2030.html",
+    "https://www.championat.com/basketball/news-6702518-golden-stejt-proigral-nyu-orlean-eto-vtoroe-kryadu-porazhenie-posle-travmy-karri.html"
   ],
   "sent_commentary_keys": []
 }
