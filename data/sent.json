@@ -119,7 +119,10 @@
     "queue/20261117-151451-01.json",
     "queue/20261117-151451-02.json",
     "queue/20261117-151451-03.json",
-    "queue/20261117-182023-01.json"
+    "queue/20261117-182023-01.json",
+    "queue/20261117-211751-01.json",
+    "queue/20261117-211751-02.json",
+    "queue/20261117-211751-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -241,7 +244,10 @@
     "https://www.championat.com/football/news-6702954-lokomotiv-obyavil-ob-uvolnenii-mihaila-galaktionova.html",
     "https://www.championat.com/football/news-6702814-predstaviteli-barselony-i-bavarii-priedut-posmotret-na-igru-batrakova-v-matche-lch.html",
     "https://www.championat.com/hockey/news-6702804-ak-bars-podpisal-kontrakt-s-napadayuschim-evgeniem-dadonovym.html",
-    "https://www.sport.ru/hockey/obladatel-kubka-stenli-kuznetsov-obyyasnil-shutku-s-konkami-i-obyyavil-o-novom-/article663907"
+    "https://www.sport.ru/hockey/obladatel-kubka-stenli-kuznetsov-obyyasnil-shutku-s-konkami-i-obyyavil-o-novom-/article663907",
+    "https://www.sports.ru/football/1117439186-betboom-match-sbornoj-rossiya-primet-venesuelu-nachalo-v-1900.html",
+    "https://www.championat.com/football/news-6703328-sergej-ovchinnikov-naznachen-ispolnyayuschim-obyazannosti-glavnogo-trenera-lokomotiva.html",
+    "https://www.championat.com/hockey/news-6703326-skott-gordon-prokommentiroval-porazhenie-traktora-ot-sibiri.html"
   ],
   "sent_commentary_keys": []
 }
