@@ -115,7 +115,10 @@
     "queue/20261117-091516-03.json",
     "queue/20261117-121347-01.json",
     "queue/20261117-121347-02.json",
-    "queue/20261117-121347-03.json"
+    "queue/20261117-121347-03.json",
+    "queue/20261117-151451-01.json",
+    "queue/20261117-151451-02.json",
+    "queue/20261117-151451-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -233,7 +236,10 @@
     "https://www.sports.ru/football/1117439162-leonchenko-o-tom-chto-leonid-sobolev-postroil-stadion-torpedo-za-svoi-.html",
     "https://www.championat.com/football/news-6702480-safonov-otvetil-zhurnalistu-o-matche-sezona-kotoryj-prinyos-naibolshee-udovolstvie.html",
     "https://www.championat.com/football/news-6702470-skaloni-otvetil-na-vopros-o-messi-v-trenerskom-shtabe-argentiny-k-chm-2030.html",
-    "https://www.championat.com/basketball/news-6702518-golden-stejt-proigral-nyu-orlean-eto-vtoroe-kryadu-porazhenie-posle-travmy-karri.html"
+    "https://www.championat.com/basketball/news-6702518-golden-stejt-proigral-nyu-orlean-eto-vtoroe-kryadu-porazhenie-posle-travmy-karri.html",
+    "https://www.championat.com/football/news-6702954-lokomotiv-obyavil-ob-uvolnenii-mihaila-galaktionova.html",
+    "https://www.championat.com/football/news-6702814-predstaviteli-barselony-i-bavarii-priedut-posmotret-na-igru-batrakova-v-matche-lch.html",
+    "https://www.championat.com/hockey/news-6702804-ak-bars-podpisal-kontrakt-s-napadayuschim-evgeniem-dadonovym.html"
   ],
   "sent_commentary_keys": []
 }
