@@ -122,7 +122,9 @@
     "queue/20261117-182023-01.json",
     "queue/20261117-211751-01.json",
     "queue/20261117-211751-02.json",
-    "queue/20261117-211751-03.json"
+    "queue/20261117-211751-03.json",
+    "queue/20261118-001804-01.json",
+    "queue/20261118-001804-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -247,7 +249,9 @@
     "https://www.sport.ru/hockey/obladatel-kubka-stenli-kuznetsov-obyyasnil-shutku-s-konkami-i-obyyavil-o-novom-/article663907",
     "https://www.sports.ru/football/1117439186-betboom-match-sbornoj-rossiya-primet-venesuelu-nachalo-v-1900.html",
     "https://www.championat.com/football/news-6703328-sergej-ovchinnikov-naznachen-ispolnyayuschim-obyazannosti-glavnogo-trenera-lokomotiva.html",
-    "https://www.championat.com/hockey/news-6703326-skott-gordon-prokommentiroval-porazhenie-traktora-ot-sibiri.html"
+    "https://www.championat.com/hockey/news-6703326-skott-gordon-prokommentiroval-porazhenie-traktora-ot-sibiri.html",
+    "https://www.sport.ru/football/tarasov-otsenil-prihod-ovchinnikova-i-borodyuka-v-lokomotiv/article663950",
+    "https://www.sport.ru/football/karpin-otvetil-pochemu-oba-noyabrskih-matcha-sbornoy-provel-safonov/article663957"
   ],
   "sent_commentary_keys": []
 }
