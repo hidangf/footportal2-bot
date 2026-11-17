@@ -103,7 +103,10 @@
     "queue/20261116-212300-03.json",
     "queue/20261117-001514-01.json",
     "queue/20261117-001514-02.json",
-    "queue/20261117-001514-03.json"
+    "queue/20261117-001514-03.json",
+    "queue/20261117-031218-01.json",
+    "queue/20261117-031218-02.json",
+    "queue/20261117-031218-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -209,7 +212,10 @@
     "https://www.sports.ru/hockey/1117438705-ska-gotov-rasstatsya-s-chebykinym.html",
     "https://www.championat.com/football/news-6702100-gavrilov-vmesto-matchej-sbornoj-rossii-po-nocham-smotryu-chempionat-brazilii.html",
     "https://www.championat.com/football/news-6702102-trener-sbornoj-portugalii-zhezush-vyskazalsya-o-situacii-s-bernardu-silvoj.html",
-    "https://www.championat.com/hockey/news-6702122-kozlov-o-pobede-salavata-nad-admiralom-v-koncovke-na-zubah-vytaschili-etot-match.html"
+    "https://www.championat.com/hockey/news-6702122-kozlov-o-pobede-salavata-nad-admiralom-v-koncovke-na-zubah-vytaschili-etot-match.html",
+    "https://www.sports.ru/football/1117439090-lokomotiv-i-galaktionov-soglasovali-rastorzhenie-kontrakta-ovchinnikov.html",
+    "https://www.sports.ru/football/1117438756-diveev-za-rasshirenie-rpl-do-18-komand-bolshe-igr-bolshe-zritelej-dlya.html",
+    "https://www.sports.ru/tennis/1117438711-alkaras-o-razgrome-tiafu-na-starte-itogovogo-nikogda-ne-chuvstvoval-se.html"
   ],
   "sent_commentary_keys": []
 }
