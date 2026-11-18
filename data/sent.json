@@ -133,7 +133,10 @@
     "queue/20261118-061415-03.json",
     "queue/20261118-091732-01.json",
     "queue/20261118-091732-02.json",
-    "queue/20261118-091732-03.json"
+    "queue/20261118-091732-03.json",
+    "queue/20261118-121216-01.json",
+    "queue/20261118-121216-02.json",
+    "queue/20261118-121216-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -269,7 +272,10 @@
     "https://www.championat.com/basketball/news-6703730-partizan-valensiya-rezultat-matcha-17-noyabrya-2026-schet-76-64-evroliga-2026-2027.html",
     "https://www.sports.ru/football/1117440250-xoland-posle-32-s-daniej-etot-god-odin-iz-samyx-sumasshedshix-v-karere.html",
     "https://www.sports.ru/football/1117440233-matteus-o-germanii-pri-kloppe-sovershenno-inaya-atmosfera-po-sravneniy.html",
-    "https://www.sports.ru/hockey/1117439155-rejndzhers-pobedili-monreal-31-v-matche-v-chest-100-letiya-debyuta-klu.html"
+    "https://www.sports.ru/hockey/1117439155-rejndzhers-pobedili-monreal-31-v-matche-v-chest-100-letiya-debyuta-klu.html",
+    "https://www.sports.ru/football/1117440239-emiliano-martines-pro-70-s-kosta-rikoj-argentiny-bylo-vazhno-vernutsya.html",
+    "https://www.sports.ru/football/1117440214-matvej-safonov-esli-ya-stanu-trenerom-to-budu-xoroshim-trenerom-u-meny.html",
+    "https://www.sports.ru/football/1117440241-pulishich-zabil-nozhniczami-v-matche-s-gaiti-i-vyshel-na-4-e-mesto-v-i.html"
   ],
   "sent_commentary_keys": []
 }
