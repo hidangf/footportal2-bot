@@ -130,7 +130,10 @@
     "queue/20261118-031427-03.json",
     "queue/20261118-061415-01.json",
     "queue/20261118-061415-02.json",
-    "queue/20261118-061415-03.json"
+    "queue/20261118-061415-03.json",
+    "queue/20261118-091732-01.json",
+    "queue/20261118-091732-02.json",
+    "queue/20261118-091732-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -263,7 +266,10 @@
     "https://www.sports.ru/hockey/1117440152-ovechkin-o-sigarax-ot-tampy-eto-chto-to-osobennoe-spasibo-za-takoj-pod.html",
     "https://www.championat.com/football/news-6703664-myu-i-siti-mogut-poborotsya-za-17-letnego-vratarya-bavarii-teamtalk.html",
     "https://www.championat.com/football/news-6703748-opredelilis-vse-uchastniki-plej-off-ligi-nacij-uefa.html",
-    "https://www.championat.com/basketball/news-6703730-partizan-valensiya-rezultat-matcha-17-noyabrya-2026-schet-76-64-evroliga-2026-2027.html"
+    "https://www.championat.com/basketball/news-6703730-partizan-valensiya-rezultat-matcha-17-noyabrya-2026-schet-76-64-evroliga-2026-2027.html",
+    "https://www.sports.ru/football/1117440250-xoland-posle-32-s-daniej-etot-god-odin-iz-samyx-sumasshedshix-v-karere.html",
+    "https://www.sports.ru/football/1117440233-matteus-o-germanii-pri-kloppe-sovershenno-inaya-atmosfera-po-sravneniy.html",
+    "https://www.sports.ru/hockey/1117439155-rejndzhers-pobedili-monreal-31-v-matche-v-chest-100-letiya-debyuta-klu.html"
   ],
   "sent_commentary_keys": []
 }
