@@ -124,7 +124,10 @@
     "queue/20261117-211751-02.json",
     "queue/20261117-211751-03.json",
     "queue/20261118-001804-01.json",
-    "queue/20261118-001804-02.json"
+    "queue/20261118-001804-02.json",
+    "queue/20261118-031427-01.json",
+    "queue/20261118-031427-02.json",
+    "queue/20261118-031427-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -251,7 +254,10 @@
     "https://www.championat.com/football/news-6703328-sergej-ovchinnikov-naznachen-ispolnyayuschim-obyazannosti-glavnogo-trenera-lokomotiva.html",
     "https://www.championat.com/hockey/news-6703326-skott-gordon-prokommentiroval-porazhenie-traktora-ot-sibiri.html",
     "https://www.sport.ru/football/tarasov-otsenil-prihod-ovchinnikova-i-borodyuka-v-lokomotiv/article663950",
-    "https://www.sport.ru/football/karpin-otvetil-pochemu-oba-noyabrskih-matcha-sbornoy-provel-safonov/article663957"
+    "https://www.sport.ru/football/karpin-otvetil-pochemu-oba-noyabrskih-matcha-sbornoy-provel-safonov/article663957",
+    "https://www.sports.ru/football/1117439225-portugaliya-sygraet-v-gostyax-s-uelsom-v-6-m-ture-ligi-naczij-nachalo-.html",
+    "https://www.sports.ru/football/blogs/3635959.html",
+    "https://www.sports.ru/hockey/1117440152-ovechkin-o-sigarax-ot-tampy-eto-chto-to-osobennoe-spasibo-za-takoj-pod.html"
   ],
   "sent_commentary_keys": []
 }
