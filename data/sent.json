@@ -144,7 +144,9 @@
     "queue/20261118-181934-03.json",
     "queue/20261118-211748-01.json",
     "queue/20261118-211748-02.json",
-    "queue/20261118-211748-03.json"
+    "queue/20261118-211748-03.json",
+    "queue/20261119-001321-01.json",
+    "queue/20261119-001321-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -291,7 +293,9 @@
     "https://www.sport.ru/tennis/alkaras-obygral-medvedeva-na-itogovom-turnire-atr/article664001",
     "https://www.sports.ru/football/1117441009-enrike-o-nachale-raboty-v-barse-b-ya-nikogda-ne-dumal-o-trenerstve-byl.html",
     "https://www.sports.ru/football/1117440947-ispolkom-rfs-izmenil-pravila-obrashheniya-v-esk-klubam-rekomendovano-s.html",
-    "https://www.sports.ru/hockey/1117440898-avangard-nabral-ochki-v-3-m-matche-podryad-obygrav-admiral-dalnevostoc.html"
+    "https://www.sports.ru/hockey/1117440898-avangard-nabral-ochki-v-3-m-matche-podryad-obygrav-admiral-dalnevostoc.html",
+    "https://www.sport.ru/football/galatasaray-obyyavil-o-perenose-matcha-posle-vozvrascheniya-batrakova-iz-sbornoy/article664021",
+    "https://www.sport.ru/football/koloskov-otvetil-kogda-uefa-polnostyu-otmenit-otstranenie-sbornoy-rossii/article664028"
   ],
   "sent_commentary_keys": []
 }
