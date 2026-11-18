@@ -138,7 +138,10 @@
     "queue/20261118-121216-02.json",
     "queue/20261118-121216-03.json",
     "queue/20261118-152019-01.json",
-    "queue/20261118-152019-02.json"
+    "queue/20261118-152019-02.json",
+    "queue/20261118-181934-01.json",
+    "queue/20261118-181934-02.json",
+    "queue/20261118-181934-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -279,7 +282,10 @@
     "https://www.sports.ru/football/1117440214-matvej-safonov-esli-ya-stanu-trenerom-to-budu-xoroshim-trenerom-u-meny.html",
     "https://www.sports.ru/football/1117440241-pulishich-zabil-nozhniczami-v-matche-s-gaiti-i-vyshel-na-4-e-mesto-v-i.html",
     "https://www.sports.ru/football/1117440563-real-i-gyuler-prodlili-kontrakt-do-2032-goda.html",
-    "https://www.sports.ru/football/1117440488-czska-gotov-zaplatit-do-20-mln-evro-za-forvarda-betisa-i-kolumbii-erna.html"
+    "https://www.sports.ru/football/1117440488-czska-gotov-zaplatit-do-20-mln-evro-za-forvarda-betisa-i-kolumbii-erna.html",
+    "https://www.sport.ru/football/sbornaya-rossii-sohranila-35-yu-pozitsiyu-v-obnovlennom-reytinge-fifa/article663997",
+    "https://www.sport.ru/football/opredeleny-korziny-jerebevki-otbora-k-evro-2028-rossii-v-nih-net/article663994",
+    "https://www.sport.ru/tennis/alkaras-obygral-medvedeva-na-itogovom-turnire-atr/article664001"
   ],
   "sent_commentary_keys": []
 }
