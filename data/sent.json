@@ -146,7 +146,13 @@
     "queue/20261118-211748-02.json",
     "queue/20261118-211748-03.json",
     "queue/20261119-001321-01.json",
-    "queue/20261119-001321-02.json"
+    "queue/20261119-001321-02.json",
+    "queue/20261119-031226-01.json",
+    "queue/20261119-031226-02.json",
+    "queue/20261119-031226-03.json",
+    "queue/20261119-061316-01.json",
+    "queue/20261119-061316-02.json",
+    "queue/20261119-061316-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -295,7 +301,13 @@
     "https://www.sports.ru/football/1117440947-ispolkom-rfs-izmenil-pravila-obrashheniya-v-esk-klubam-rekomendovano-s.html",
     "https://www.sports.ru/hockey/1117440898-avangard-nabral-ochki-v-3-m-matche-podryad-obygrav-admiral-dalnevostoc.html",
     "https://www.sport.ru/football/galatasaray-obyyavil-o-perenose-matcha-posle-vozvrascheniya-batrakova-iz-sbornoy/article664021",
-    "https://www.sport.ru/football/koloskov-otvetil-kogda-uefa-polnostyu-otmenit-otstranenie-sbornoy-rossii/article664028"
+    "https://www.sport.ru/football/koloskov-otvetil-kogda-uefa-polnostyu-otmenit-otstranenie-sbornoy-rossii/article664028",
+    "https://www.sports.ru/football/1117441138-pochettino-fanatam-myu-nadeyus-my-prinesem-vam-mnogo-schastya-vasha-po.html",
+    "https://www.sports.ru/football/1117441128-deku-ob-usilenii-zashhity-barsy-kogda-travmirovany-kristensen-garsiya-.html",
+    "https://www.sports.ru/hockey/1117441172-lav-o-23-s-amurom-shanxaj-pyat-matchej-podryad-proigral-neprostoe-vrem.html",
+    "https://www.sports.ru/football/1117441183-suares-o-barselone-vse-rany-zazhivayut-rano-ili-pozdno-vsegda-obsuzhda.html",
+    "https://www.sports.ru/football/1117441179-kellini-ob-italii-v-lige-naczij-proczess-idet-bystree-chem-ozhidalos-u.html",
+    "https://www.sports.ru/hockey/1117441186-kozyrev-pobil-rekord-razina-po-pobedam-v-kachestve-trenera-severstali-.html"
   ],
   "sent_commentary_keys": []
 }
