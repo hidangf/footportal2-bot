@@ -152,7 +152,10 @@
     "queue/20261119-031226-03.json",
     "queue/20261119-061316-01.json",
     "queue/20261119-061316-02.json",
-    "queue/20261119-061316-03.json"
+    "queue/20261119-061316-03.json",
+    "queue/20261119-091728-01.json",
+    "queue/20261119-091728-02.json",
+    "queue/20261119-091728-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -307,7 +310,10 @@
     "https://www.sports.ru/hockey/1117441172-lav-o-23-s-amurom-shanxaj-pyat-matchej-podryad-proigral-neprostoe-vrem.html",
     "https://www.sports.ru/football/1117441183-suares-o-barselone-vse-rany-zazhivayut-rano-ili-pozdno-vsegda-obsuzhda.html",
     "https://www.sports.ru/football/1117441179-kellini-ob-italii-v-lige-naczij-proczess-idet-bystree-chem-ozhidalos-u.html",
-    "https://www.sports.ru/hockey/1117441186-kozyrev-pobil-rekord-razina-po-pobedam-v-kachestve-trenera-severstali-.html"
+    "https://www.sports.ru/hockey/1117441186-kozyrev-pobil-rekord-razina-po-pobedam-v-kachestve-trenera-severstali-.html",
+    "https://www.sports.ru/football/1117441273-andrej-talalaev-baltike-nuzhno-sravnyatsya-po-zhelaniyu-vyigrat-s-oren.html",
+    "https://www.sports.ru/football/1117441254-pep-otkazalsya-vozglavit-sbornuyu-saudovskoj-aravii-nikolo-skira.html",
+    "https://www.sports.ru/hockey/1117440284-gote-sdelal-4-j-xet-trik-v-noyabre-i-prodlil-seriyu-s-golami-do-10-mat.html"
   ],
   "sent_commentary_keys": []
 }
