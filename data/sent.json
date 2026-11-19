@@ -166,7 +166,9 @@
     "queue/20261119-181900-02.json",
     "queue/20261119-181900-03.json",
     "queue/20261119-211737-01.json",
-    "queue/20261119-211737-02.json"
+    "queue/20261119-211737-02.json",
+    "queue/20261120-002028-01.json",
+    "queue/20261120-002028-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -335,7 +337,9 @@
     "https://www.sport.ru/football/glebov-otvetil-nujny-li-sbornoy-rossii-tovarischeskie-matchi/article664064",
     "https://www.sport.ru/football/mahachkalinskoe-dinamo-i-spartak-ne-vyyavili-pobeditelya-golov-zriteli-ne-uvideli/article664058",
     "https://www.sport.ru/football/ovchinnikov-vpervye-vyshel-k-jurnalistam-posle-togo-kka-prinyal-lokomotiv/article664086",
-    "https://www.sport.ru/football/rfs-obyyavil-imena-sudey-na-zaklyuchitelnye-matchi-spartaka-i-zenita-v-pervom-/article664083"
+    "https://www.sport.ru/football/rfs-obyyavil-imena-sudey-na-zaklyuchitelnye-matchi-spartaka-i-zenita-v-pervom-/article664083",
+    "https://www.sport.ru/football/juravel-slovami-utkina-otvetil-na-kritiku-kommentatorov-v-rossii/article664100",
+    "https://www.sport.ru/football/storonniki-rasshireniya-rpl-do-20-klubov-predostavili-lige-chetyre-argumenta/article664097"
   ],
   "sent_commentary_keys": []
 }
