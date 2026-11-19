@@ -164,7 +164,9 @@
     "queue/20261119-152000-03.json",
     "queue/20261119-181900-01.json",
     "queue/20261119-181900-02.json",
-    "queue/20261119-181900-03.json"
+    "queue/20261119-181900-03.json",
+    "queue/20261119-211737-01.json",
+    "queue/20261119-211737-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -331,7 +333,9 @@
     "https://www.sports.ru/hockey/1117441444-babaev-o-ska-komanda-poka-ne-mozhet-priteretsya-k-razinu-a-on-k-komand.html",
     "https://www.sport.ru/football/barboza-otvetil-nujno-li-rpl-rasshiryat-do-18-klubov/article664065",
     "https://www.sport.ru/football/glebov-otvetil-nujny-li-sbornoy-rossii-tovarischeskie-matchi/article664064",
-    "https://www.sport.ru/football/mahachkalinskoe-dinamo-i-spartak-ne-vyyavili-pobeditelya-golov-zriteli-ne-uvideli/article664058"
+    "https://www.sport.ru/football/mahachkalinskoe-dinamo-i-spartak-ne-vyyavili-pobeditelya-golov-zriteli-ne-uvideli/article664058",
+    "https://www.sport.ru/football/ovchinnikov-vpervye-vyshel-k-jurnalistam-posle-togo-kka-prinyal-lokomotiv/article664086",
+    "https://www.sport.ru/football/rfs-obyyavil-imena-sudey-na-zaklyuchitelnye-matchi-spartaka-i-zenita-v-pervom-/article664083"
   ],
   "sent_commentary_keys": []
 }
