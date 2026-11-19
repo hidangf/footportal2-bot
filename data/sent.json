@@ -158,7 +158,10 @@
     "queue/20261119-091728-03.json",
     "queue/20261119-122100-01.json",
     "queue/20261119-122100-02.json",
-    "queue/20261119-122100-03.json"
+    "queue/20261119-122100-03.json",
+    "queue/20261119-152000-01.json",
+    "queue/20261119-152000-02.json",
+    "queue/20261119-152000-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -319,7 +322,10 @@
     "https://www.sports.ru/hockey/1117440284-gote-sdelal-4-j-xet-trik-v-noyabre-i-prodlil-seriyu-s-golami-do-10-mat.html",
     "https://www.sports.ru/football/1117441414-konte-gotov-vernutsya-v-yuventus-krug-zamknetsya-rano-ili-pozdno-my-uz.html",
     "https://www.sports.ru/football/1117441377-gladilin-o-tyukavine-dlya-silnejshix-komand-top-5-lig-eshhe-ne-sozrel-.html",
-    "https://www.sports.ru/hockey/1117441214-ska-vystavil-plotnikova-na-obmen-se.html"
+    "https://www.sports.ru/hockey/1117441214-ska-vystavil-plotnikova-na-obmen-se.html",
+    "https://www.sports.ru/football/1117441564-spartak-ne-podpishet-lapouxova-iz-za-finansovyx-trebovanij-vratarya-so.html",
+    "https://www.sports.ru/football/1117441468-yarovinskij-naznachen-sportivnym-direktorom-baltiki.html",
+    "https://www.sports.ru/hockey/1117441444-babaev-o-ska-komanda-poka-ne-mozhet-priteretsya-k-razinu-a-on-k-komand.html"
   ],
   "sent_commentary_keys": []
 }
