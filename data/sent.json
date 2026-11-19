@@ -155,7 +155,10 @@
     "queue/20261119-061316-03.json",
     "queue/20261119-091728-01.json",
     "queue/20261119-091728-02.json",
-    "queue/20261119-091728-03.json"
+    "queue/20261119-091728-03.json",
+    "queue/20261119-122100-01.json",
+    "queue/20261119-122100-02.json",
+    "queue/20261119-122100-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -313,7 +316,10 @@
     "https://www.sports.ru/hockey/1117441186-kozyrev-pobil-rekord-razina-po-pobedam-v-kachestve-trenera-severstali-.html",
     "https://www.sports.ru/football/1117441273-andrej-talalaev-baltike-nuzhno-sravnyatsya-po-zhelaniyu-vyigrat-s-oren.html",
     "https://www.sports.ru/football/1117441254-pep-otkazalsya-vozglavit-sbornuyu-saudovskoj-aravii-nikolo-skira.html",
-    "https://www.sports.ru/hockey/1117440284-gote-sdelal-4-j-xet-trik-v-noyabre-i-prodlil-seriyu-s-golami-do-10-mat.html"
+    "https://www.sports.ru/hockey/1117440284-gote-sdelal-4-j-xet-trik-v-noyabre-i-prodlil-seriyu-s-golami-do-10-mat.html",
+    "https://www.sports.ru/football/1117441414-konte-gotov-vernutsya-v-yuventus-krug-zamknetsya-rano-ili-pozdno-my-uz.html",
+    "https://www.sports.ru/football/1117441377-gladilin-o-tyukavine-dlya-silnejshix-komand-top-5-lig-eshhe-ne-sozrel-.html",
+    "https://www.sports.ru/hockey/1117441214-ska-vystavil-plotnikova-na-obmen-se.html"
   ],
   "sent_commentary_keys": []
 }
