@@ -188,7 +188,9 @@
     "queue/20261120-181341-03.json",
     "queue/20261120-211742-01.json",
     "queue/20261120-211742-02.json",
-    "queue/20261120-211742-03.json"
+    "queue/20261120-211742-03.json",
+    "queue/20261121-002035-01.json",
+    "queue/20261121-002035-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -379,7 +381,9 @@
     "https://www.sport.ru/tennis/alkaras-stal-tretim-polufinalistom-itogovogo-turnira-atp/article664162",
     "https://www.sport.ru/football/krishtianu-ronaldu-zabil-986-y-gol-v-karere/article664170",
     "https://www.sport.ru/football/futbol-rpl-rostov-krylya-sovetov-pryamaya-tekstovaya-onlayn-translyatsiya/article664167",
-    "https://www.sport.ru/tt/ovechkina-nastig-samyy-grustnyy-antirekord-za-21-god-v-nhl-no-vinovat-v-etom-ne-/article664147"
+    "https://www.sport.ru/tt/ovechkina-nastig-samyy-grustnyy-antirekord-za-21-god-v-nhl-no-vinovat-v-etom-ne-/article664147",
+    "https://www.championat.ru/football/news-6707236-bavariya-mozhet-zaplatit-eur-100-mln-za-poluzaschitnika-lejpciga-bild.html",
+    "https://www.rbc.ru/sport/20/11/2026/6b0087b22e3b996defd56d27"
   ],
   "sent_commentary_keys": []
 }
