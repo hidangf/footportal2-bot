@@ -168,7 +168,10 @@
     "queue/20261119-211737-01.json",
     "queue/20261119-211737-02.json",
     "queue/20261120-002028-01.json",
-    "queue/20261120-002028-02.json"
+    "queue/20261120-002028-02.json",
+    "queue/20261120-031754-01.json",
+    "queue/20261120-031754-02.json",
+    "queue/20261120-031754-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -339,7 +342,10 @@
     "https://www.sport.ru/football/ovchinnikov-vpervye-vyshel-k-jurnalistam-posle-togo-kka-prinyal-lokomotiv/article664086",
     "https://www.sport.ru/football/rfs-obyyavil-imena-sudey-na-zaklyuchitelnye-matchi-spartaka-i-zenita-v-pervom-/article664083",
     "https://www.sport.ru/football/juravel-slovami-utkina-otvetil-na-kritiku-kommentatorov-v-rossii/article664100",
-    "https://www.sport.ru/football/storonniki-rasshireniya-rpl-do-20-klubov-predostavili-lige-chetyre-argumenta/article664097"
+    "https://www.sport.ru/football/storonniki-rasshireniya-rpl-do-20-klubov-predostavili-lige-chetyre-argumenta/article664097",
+    "https://www.sports.ru/football/1117442115-kejn-o-benzema-ya-vsegda-byl-ego-bolshim-poklonnikom-vizhu-mnogo-obshh.html",
+    "https://www.sports.ru/football/1117442040-lester-snyali-s-prodazhi-vladelczy-kluba-sosredotocheny-na-vozvrashhen.html",
+    "https://www.sports.ru/hockey/1117442130-zhamnov-ob-isxakove-i-nechaeve-dlya-spartaka-eto-glotok-vozduxa-bolsho.html"
   ],
   "sent_commentary_keys": []
 }
