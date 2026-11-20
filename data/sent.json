@@ -185,7 +185,10 @@
     "queue/20261120-151933-03.json",
     "queue/20261120-181341-01.json",
     "queue/20261120-181341-02.json",
-    "queue/20261120-181341-03.json"
+    "queue/20261120-181341-03.json",
+    "queue/20261120-211742-01.json",
+    "queue/20261120-211742-02.json",
+    "queue/20261120-211742-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -373,7 +376,10 @@
     "https://www.sports.ru/hockey/1117439461-mixail-sergachev-avangard-lokomotiv-i-czska-poxozhi-na-uspeshnye-kluby.html",
     "https://www.sport.ru/football/glushakov-podelilsya-ojidaniyami-ot-raboty-ovchinnikova-v-lokomotive/article664163",
     "https://www.sport.ru/football/hayrullin-otvetil-est-li-u-kislyaka-perspektivy-zaigrat-za-barselonu/article664164",
-    "https://www.sport.ru/tennis/alkaras-stal-tretim-polufinalistom-itogovogo-turnira-atp/article664162"
+    "https://www.sport.ru/tennis/alkaras-stal-tretim-polufinalistom-itogovogo-turnira-atp/article664162",
+    "https://www.sport.ru/football/krishtianu-ronaldu-zabil-986-y-gol-v-karere/article664170",
+    "https://www.sport.ru/football/futbol-rpl-rostov-krylya-sovetov-pryamaya-tekstovaya-onlayn-translyatsiya/article664167",
+    "https://www.sport.ru/tt/ovechkina-nastig-samyy-grustnyy-antirekord-za-21-god-v-nhl-no-vinovat-v-etom-ne-/article664147"
   ],
   "sent_commentary_keys": []
 }
