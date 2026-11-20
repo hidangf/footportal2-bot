@@ -174,7 +174,9 @@
     "queue/20261120-031754-03.json",
     "queue/20261120-062134-01.json",
     "queue/20261120-062134-02.json",
-    "queue/20261120-062134-03.json"
+    "queue/20261120-062134-03.json",
+    "queue/20261120-091413-01.json",
+    "queue/20261120-091413-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -351,7 +353,9 @@
     "https://www.sports.ru/hockey/1117442130-zhamnov-ob-isxakove-i-nechaeve-dlya-spartaka-eto-glotok-vozduxa-bolsho.html",
     "https://www.sports.ru/football/1117442131-pszh-planiruet-prodlit-kontrakty-s-safonovym-xvichej-dembele-i-due-can.html",
     "https://www.sports.ru/football/1117442143-kejn-ob-olise-u-nego-est-vse-zadatki-chtoby-prinesti-bavarii-eshhe-odi.html",
-    "https://www.sports.ru/hockey/1117442149-serebryakov-o-novichkax-avangarda-u-afanaseva-chuvstvuetsya-enxaelovsk.html"
+    "https://www.sports.ru/hockey/1117442149-serebryakov-o-novichkax-avangarda-u-afanaseva-chuvstvuetsya-enxaelovsk.html",
+    "https://www.sports.ru/football/1117442140-gerkus-o-nedopuske-rossii-esli-na-evro-nas-ne-zovut-mozhet-poprobovat-.html",
+    "https://www.sports.ru/football/1117442128-real-nameren-vernut-pasa-za-80-mln-evro-iz-komo-letom-cope.html"
   ],
   "sent_commentary_keys": []
 }
