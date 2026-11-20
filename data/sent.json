@@ -171,7 +171,10 @@
     "queue/20261120-002028-02.json",
     "queue/20261120-031754-01.json",
     "queue/20261120-031754-02.json",
-    "queue/20261120-031754-03.json"
+    "queue/20261120-031754-03.json",
+    "queue/20261120-062134-01.json",
+    "queue/20261120-062134-02.json",
+    "queue/20261120-062134-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -345,7 +348,10 @@
     "https://www.sport.ru/football/storonniki-rasshireniya-rpl-do-20-klubov-predostavili-lige-chetyre-argumenta/article664097",
     "https://www.sports.ru/football/1117442115-kejn-o-benzema-ya-vsegda-byl-ego-bolshim-poklonnikom-vizhu-mnogo-obshh.html",
     "https://www.sports.ru/football/1117442040-lester-snyali-s-prodazhi-vladelczy-kluba-sosredotocheny-na-vozvrashhen.html",
-    "https://www.sports.ru/hockey/1117442130-zhamnov-ob-isxakove-i-nechaeve-dlya-spartaka-eto-glotok-vozduxa-bolsho.html"
+    "https://www.sports.ru/hockey/1117442130-zhamnov-ob-isxakove-i-nechaeve-dlya-spartaka-eto-glotok-vozduxa-bolsho.html",
+    "https://www.sports.ru/football/1117442131-pszh-planiruet-prodlit-kontrakty-s-safonovym-xvichej-dembele-i-due-can.html",
+    "https://www.sports.ru/football/1117442143-kejn-ob-olise-u-nego-est-vse-zadatki-chtoby-prinesti-bavarii-eshhe-odi.html",
+    "https://www.sports.ru/hockey/1117442149-serebryakov-o-novichkax-avangarda-u-afanaseva-chuvstvuetsya-enxaelovsk.html"
   ],
   "sent_commentary_keys": []
 }
