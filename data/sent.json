@@ -179,7 +179,10 @@
     "queue/20261120-091413-02.json",
     "queue/20261120-121831-01.json",
     "queue/20261120-121831-02.json",
-    "queue/20261120-121831-03.json"
+    "queue/20261120-121831-03.json",
+    "queue/20261120-151933-01.json",
+    "queue/20261120-151933-02.json",
+    "queue/20261120-151933-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -361,7 +364,10 @@
     "https://www.sports.ru/football/1117442128-real-nameren-vernut-pasa-za-80-mln-evro-iz-komo-letom-cope.html",
     "https://www.sports.ru/football/1117442173-sietl-saunders-real-solt-lejk-startovye-sostavy-komand-na-match-mls-20.html",
     "https://www.sports.ru/football/1117442162-orlando-siti-czinczinnati-startovye-sostavy-komand-na-match-mls-20-noy.html",
-    "https://www.sports.ru/hockey/1117442185-vasilevskij-otrazil-23-iz-24-broskov-edmontona-i-stal-1-j-zvezdoj-matc.html"
+    "https://www.sports.ru/hockey/1117442185-vasilevskij-otrazil-23-iz-24-broskov-edmontona-i-stal-1-j-zvezdoj-matc.html",
+    "https://www.sports.ru/football/1117442353-mbemo-do-nochi-igral-v-glupuyu-igru-nakanune-prixoda-novogo-trenera-sk.html",
+    "https://www.sports.ru/football/1117442207-alfa-bank-rpl-rostov-primet-krylya-v-subbotu-zenit-sygraet-s-rubinom-v.html",
+    "https://www.sports.ru/hockey/1117439461-mixail-sergachev-avangard-lokomotiv-i-czska-poxozhi-na-uspeshnye-kluby.html"
   ],
   "sent_commentary_keys": []
 }
