@@ -190,7 +190,10 @@
     "queue/20261120-211742-02.json",
     "queue/20261120-211742-03.json",
     "queue/20261121-002035-01.json",
-    "queue/20261121-002035-02.json"
+    "queue/20261121-002035-02.json",
+    "queue/20261121-032155-01.json",
+    "queue/20261121-032155-02.json",
+    "queue/20261121-032155-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -383,7 +386,10 @@
     "https://www.sport.ru/football/futbol-rpl-rostov-krylya-sovetov-pryamaya-tekstovaya-onlayn-translyatsiya/article664167",
     "https://www.sport.ru/tt/ovechkina-nastig-samyy-grustnyy-antirekord-za-21-god-v-nhl-no-vinovat-v-etom-ne-/article664147",
     "https://www.championat.ru/football/news-6707236-bavariya-mozhet-zaplatit-eur-100-mln-za-poluzaschitnika-lejpciga-bild.html",
-    "https://www.rbc.ru/sport/20/11/2026/6b0087b22e3b996defd56d27"
+    "https://www.rbc.ru/sport/20/11/2026/6b0087b22e3b996defd56d27",
+    "https://www.sports.ru/football/1117443131-van-dejk-o-budushhem-ya-sam-ne-znayu-gde-budu-v-sleduyushhem-sezone-ya.html",
+    "https://www.sports.ru/football/1117443121-cherchesov-vpervye-peresmotrel-igry-rossii-na-chm-2018-neploxo-ya-by-d.html",
+    "https://www.sports.ru/football/1117443147-dzhejmi-karrager-pochettino-nuzhen-byl-klub-vrode-myu-chtoby-spasti-ka.html"
   ],
   "sent_commentary_keys": []
 }
