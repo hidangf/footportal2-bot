@@ -196,7 +196,9 @@
     "queue/20261121-032155-03.json",
     "queue/20261121-061550-01.json",
     "queue/20261121-061550-02.json",
-    "queue/20261121-061550-03.json"
+    "queue/20261121-061550-03.json",
+    "queue/20261121-091328-01.json",
+    "queue/20261121-091328-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -395,7 +397,9 @@
     "https://www.sports.ru/football/1117443147-dzhejmi-karrager-pochettino-nuzhen-byl-klub-vrode-myu-chtoby-spasti-ka.html",
     "https://www.sport.ru/football/karsedo-obyyasnil-pochemu-dzyuba-ne-pereshel-v-spartak/article664189",
     "https://www.sport.ru/football/v-manchester-yunayted-rasskazali-kak-prinyali-reshenie-ob-uvolnenii-kerrika/article664193",
-    "https://www.sport.ru/tennis/medvedev-o-pobede-nad-tiafo-v-rozygryshah-on-veroyatno-byl-luchshe-menya/article664192"
+    "https://www.sport.ru/tennis/medvedev-o-pobede-nad-tiafo-v-rozygryshah-on-veroyatno-byl-luchshe-menya/article664192",
+    "https://www.sport.ru/football/obladatel-zolotogo-myacha-keyn-vybyl-na-neskolko-mesyatsev-iz-za-travmy/article664190",
+    "https://www.sport.ru/football/radimov-zayavil-chto-emu-nadoeli-tovarischeskie-matchi-sbornoy-rossii/article664186"
   ],
   "sent_commentary_keys": []
 }
