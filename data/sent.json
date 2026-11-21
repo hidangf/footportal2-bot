@@ -209,7 +209,9 @@
     "queue/20261121-181231-03.json",
     "queue/20261121-212142-01.json",
     "queue/20261121-212142-02.json",
-    "queue/20261121-212142-03.json"
+    "queue/20261121-212142-03.json",
+    "queue/20261122-001331-01.json",
+    "queue/20261122-001331-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -421,7 +423,9 @@
     "https://www.sport.ru/tennis/yanchuk-mirra-andreeva-ne-poluchit-nagradu-luchshey-tennisistke-goda/article664228",
     "https://www.sports.ru/football/1117444187-karasev-otsudil-300-j-match-v-rpl-do-rekorda-bezborodova-6-igr.html",
     "https://www.sports.ru/football/1117443306-chelsi-primet-lids-v-11-m-ture-apl-nachalo-matcha-v-1800.html",
-    "https://www.sports.ru/football/1117443321-pszh-safonova-sygraet-v-gostyax-s-niczczej-v-11-m-ture-ligi-1-nachalo-.html"
+    "https://www.sports.ru/football/1117443321-pszh-safonova-sygraet-v-gostyax-s-niczczej-v-11-m-ture-ligi-1-nachalo-.html",
+    "https://www.sport.ru/football/semak-otvetil-na-predpolojenie-chto-zenit-vyshel-na-match-s-rubinom-spustya-/article664255",
+    "https://www.sport.ru/football/v-ahmate-zayavili-chto-cherchesov-pokinul-klub-bez-vyplaty-kompensatsii/article664251"
   ],
   "sent_commentary_keys": []
 }
