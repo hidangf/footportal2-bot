@@ -220,7 +220,9 @@
     "queue/20261122-061804-03.json",
     "queue/20261122-091521-01.json",
     "queue/20261122-091521-02.json",
-    "queue/20261122-091521-03.json"
+    "queue/20261122-091521-03.json",
+    "queue/20261122-121504-01.json",
+    "queue/20261122-121504-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -443,7 +445,9 @@
     "https://www.sports.ru/football/1117444526-gendirektor-axmata-o-rasshirenii-rpl-20-klubov-mnogo-18-budet-optimaln.html",
     "https://www.sports.ru/football/1117444562-flamengo-karraskalya-stal-chempionom-brazilii-vtoroj-god-podryad.html",
     "https://www.sport.ru/football/mourinyu-prokommentiroval-volevuyu-pobedu-reala-nad-seltoy/article664276",
-    "https://www.sports.ru/hockey/1117444582-michkov-assistiroval-pri-pobednoj-shajbe-filadelfii-v-matche-s-monreal.html"
+    "https://www.sports.ru/hockey/1117444582-michkov-assistiroval-pri-pobednoj-shajbe-filadelfii-v-matche-s-monreal.html",
+    "https://www.sports.ru/football/blogs/3639429.html",
+    "https://www.sports.ru/hockey/1117444594-xusnutdinov-prerval-seriyu-iz-10-igr-bez-ochkov-pas-na-gol-v-pustye-vo.html"
   ],
   "sent_commentary_keys": []
 }
