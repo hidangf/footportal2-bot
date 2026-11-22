@@ -214,7 +214,10 @@
     "queue/20261122-001331-02.json",
     "queue/20261122-031747-01.json",
     "queue/20261122-031747-02.json",
-    "queue/20261122-031747-03.json"
+    "queue/20261122-031747-03.json",
+    "queue/20261122-061804-01.json",
+    "queue/20261122-061804-02.json",
+    "queue/20261122-061804-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -431,7 +434,10 @@
     "https://www.sport.ru/football/v-ahmate-zayavili-chto-cherchesov-pokinul-klub-bez-vyplaty-kompensatsii/article664251",
     "https://www.sports.ru/football/1117444443-mbappe-probil-vyshe-vorot-s-penalti-v-matche-s-seltoj-kilian-sam-ego-z.html",
     "https://www.sports.ru/football/1117444415-zhoan-laporta-etot-god-dolzhen-stat-godom-barsy-eto-ponimaet-trener-eg.html",
-    "https://www.sports.ru/hockey/1117444491-axo-zabrosil-323-yu-shajbu-i-oboshel-erika-staala-v-istorii-karoliny-p.html"
+    "https://www.sports.ru/hockey/1117444491-axo-zabrosil-323-yu-shajbu-i-oboshel-erika-staala-v-istorii-karoliny-p.html",
+    "https://www.sports.ru/football/1117444547-monako-ne-vyigral-v-lige-1-shest-matchej-podryad-vpervye-s-2019-goda.html",
+    "https://www.sports.ru/football/1117443352-startuet-kubok-mls-inter-majami-messi-sygraet-s-kolambusom.html",
+    "https://www.sports.ru/football/1117444526-gendirektor-axmata-o-rasshirenii-rpl-20-klubov-mnogo-18-budet-optimaln.html"
   ],
   "sent_commentary_keys": []
 }
