@@ -217,7 +217,10 @@
     "queue/20261122-031747-03.json",
     "queue/20261122-061804-01.json",
     "queue/20261122-061804-02.json",
-    "queue/20261122-061804-03.json"
+    "queue/20261122-061804-03.json",
+    "queue/20261122-091521-01.json",
+    "queue/20261122-091521-02.json",
+    "queue/20261122-091521-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -437,7 +440,10 @@
     "https://www.sports.ru/hockey/1117444491-axo-zabrosil-323-yu-shajbu-i-oboshel-erika-staala-v-istorii-karoliny-p.html",
     "https://www.sports.ru/football/1117444547-monako-ne-vyigral-v-lige-1-shest-matchej-podryad-vpervye-s-2019-goda.html",
     "https://www.sports.ru/football/1117443352-startuet-kubok-mls-inter-majami-messi-sygraet-s-kolambusom.html",
-    "https://www.sports.ru/football/1117444526-gendirektor-axmata-o-rasshirenii-rpl-20-klubov-mnogo-18-budet-optimaln.html"
+    "https://www.sports.ru/football/1117444526-gendirektor-axmata-o-rasshirenii-rpl-20-klubov-mnogo-18-budet-optimaln.html",
+    "https://www.sports.ru/football/1117444562-flamengo-karraskalya-stal-chempionom-brazilii-vtoroj-god-podryad.html",
+    "https://www.sport.ru/football/mourinyu-prokommentiroval-volevuyu-pobedu-reala-nad-seltoy/article664276",
+    "https://www.sports.ru/hockey/1117444582-michkov-assistiroval-pri-pobednoj-shajbe-filadelfii-v-matche-s-monreal.html"
   ],
   "sent_commentary_keys": []
 }
