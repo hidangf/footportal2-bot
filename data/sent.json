@@ -211,7 +211,10 @@
     "queue/20261121-212142-02.json",
     "queue/20261121-212142-03.json",
     "queue/20261122-001331-01.json",
-    "queue/20261122-001331-02.json"
+    "queue/20261122-001331-02.json",
+    "queue/20261122-031747-01.json",
+    "queue/20261122-031747-02.json",
+    "queue/20261122-031747-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -425,7 +428,10 @@
     "https://www.sports.ru/football/1117443306-chelsi-primet-lids-v-11-m-ture-apl-nachalo-matcha-v-1800.html",
     "https://www.sports.ru/football/1117443321-pszh-safonova-sygraet-v-gostyax-s-niczczej-v-11-m-ture-ligi-1-nachalo-.html",
     "https://www.sport.ru/football/semak-otvetil-na-predpolojenie-chto-zenit-vyshel-na-match-s-rubinom-spustya-/article664255",
-    "https://www.sport.ru/football/v-ahmate-zayavili-chto-cherchesov-pokinul-klub-bez-vyplaty-kompensatsii/article664251"
+    "https://www.sport.ru/football/v-ahmate-zayavili-chto-cherchesov-pokinul-klub-bez-vyplaty-kompensatsii/article664251",
+    "https://www.sports.ru/football/1117444443-mbappe-probil-vyshe-vorot-s-penalti-v-matche-s-seltoj-kilian-sam-ego-z.html",
+    "https://www.sports.ru/football/1117444415-zhoan-laporta-etot-god-dolzhen-stat-godom-barsy-eto-ponimaet-trener-eg.html",
+    "https://www.sports.ru/hockey/1117444491-axo-zabrosil-323-yu-shajbu-i-oboshel-erika-staala-v-istorii-karoliny-p.html"
   ],
   "sent_commentary_keys": []
 }
