@@ -231,7 +231,10 @@
     "queue/20261122-181403-03.json",
     "queue/20261122-211454-01.json",
     "queue/20261122-211454-02.json",
-    "queue/20261122-211454-03.json"
+    "queue/20261122-211454-03.json",
+    "queue/20261123-001659-01.json",
+    "queue/20261123-001659-02.json",
+    "queue/20261123-001659-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -465,7 +468,10 @@
     "https://www.sports.ru/football/1117444608-yuventus-primet-venecziyu-v-12-m-ture-serii-a-nachalo-matcha-v-1430.html",
     "https://www.sport.ru/football/spartak-zavershil-pervyy-krug-na-vtorom-meste-posle-pobedy-v-kaspiyske/article664331",
     "https://www.sport.ru/football/futbol-rpl-rodina-lokomotiv-pryamaya-tekstovaya-onlayn-translyatsiya/article664332",
-    "https://www.sport.ru/tennis/tennis-itogovyy-turnir-atp-final-zverev-alkaras-pryamaya-tekstovaya-onlayn-/article664333"
+    "https://www.sport.ru/tennis/tennis-itogovyy-turnir-atp-final-zverev-alkaras-pryamaya-tekstovaya-onlayn-/article664333",
+    "https://www.sports.ru/football/1117444377-dallas-portlend-timbers-startovye-sostavy-komand-na-match-mls-22-noyab.html",
+    "https://www.sport.ru/football/manchester-yunayted-poterpel-unizitelnoe-porajenie-v-pervom-matche-pochettino/article664337",
+    "https://www.sports.ru/hockey/1117444302-drajzajtl-zabil-22-j-gol-v-sezone-karoline-forvard-edmontona-lidiruet-.html"
   ],
   "sent_commentary_keys": []
 }
