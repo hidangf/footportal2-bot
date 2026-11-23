@@ -234,7 +234,9 @@
     "queue/20261122-211454-03.json",
     "queue/20261123-001659-01.json",
     "queue/20261123-001659-02.json",
-    "queue/20261123-001659-03.json"
+    "queue/20261123-001659-03.json",
+    "queue/20261123-031722-01.json",
+    "queue/20261123-031722-02.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -471,7 +473,9 @@
     "https://www.sport.ru/tennis/tennis-itogovyy-turnir-atp-final-zverev-alkaras-pryamaya-tekstovaya-onlayn-/article664333",
     "https://www.sports.ru/football/1117444377-dallas-portlend-timbers-startovye-sostavy-komand-na-match-mls-22-noyab.html",
     "https://www.sport.ru/football/manchester-yunayted-poterpel-unizitelnoe-porajenie-v-pervom-matche-pochettino/article664337",
-    "https://www.sports.ru/hockey/1117444302-drajzajtl-zabil-22-j-gol-v-sezone-karoline-forvard-edmontona-lidiruet-.html"
+    "https://www.sports.ru/hockey/1117444302-drajzajtl-zabil-22-j-gol-v-sezone-karoline-forvard-edmontona-lidiruet-.html",
+    "https://www.sports.ru/football/1117445547-xetafe-atletiko-startovye-sostavy-komand-na-match-la-ligi-ispanii-22-n.html",
+    "https://www.sports.ru/football/blogs/3643775.html"
   ],
   "sent_commentary_keys": []
 }
