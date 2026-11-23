@@ -245,7 +245,10 @@
     "queue/20261123-091509-03.json",
     "queue/20261123-121813-01.json",
     "queue/20261123-121813-02.json",
-    "queue/20261123-121813-03.json"
+    "queue/20261123-121813-03.json",
+    "queue/20261123-151430-01.json",
+    "queue/20261123-151430-02.json",
+    "queue/20261123-151430-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -493,7 +496,10 @@
     "https://www.sports.ru/football/1117445760-kanchelskis-o-gonke-v-rpl-poka-net-yasnosti-pyat-klubov-dyshat-drug-dr.html",
     "https://www.sports.ru/football/1117445774-lapochkin-ob-udalenii-osipenko-vernoe-reshenie-var-kordobu-lishili-voz.html",
     "https://www.sports.ru/football/1117445771-ne-lez-fermina-udalili-so-skamejki-barsy-za-frazu-v-adres-rezervnogo-s.html",
-    "https://www.sports.ru/hockey/1117445777-kanczerov-4-j-novichok-chikago-za-40-let-s-xet-trikom-do-25-j-igry-v-n.html"
+    "https://www.sports.ru/hockey/1117445777-kanczerov-4-j-novichok-chikago-za-40-let-s-xet-trikom-do-25-j-igry-v-n.html",
+    "https://www.sports.ru/football/1117445927-kasintura-o-pasporte-rf-dokumenty-podal-budem-zhdat-otvet-posle-novogo.html",
+    "https://www.sports.ru/football/1117445933-vladelecz-milana-kardinale-po-prezhnemu-rasschityvayu-na-borbu-za-skud.html",
+    "https://www.sports.ru/hockey/1117445945-krasotkin-czulygin-livo-i-pustovoj-luchshie-igroki-11-j-nedeli-sezona-.html"
   ],
   "sent_commentary_keys": []
 }
