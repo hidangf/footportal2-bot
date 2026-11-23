@@ -254,7 +254,10 @@
     "queue/20261123-181516-03.json",
     "queue/20261123-211800-01.json",
     "queue/20261123-211800-02.json",
-    "queue/20261123-211800-03.json"
+    "queue/20261123-211800-03.json",
+    "queue/20261124-001740-01.json",
+    "queue/20261124-001740-02.json",
+    "queue/20261124-001740-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -511,7 +514,10 @@
     "https://www.sport.ru/tennis/kalinskaya-snyalas-s-turnira-v-peterburge/article664385",
     "https://www.sports.ru/football/1117446496-milan-predlagaet-okolo-70-mln-evro-za-endrika-i-xochet-kupit-forvarda-.html",
     "https://www.sports.ru/football/1117446243-gazizov-o-rasshirenii-rpl-vopros-sleduyushhego-sezona-do-koncza-goda-e.html",
-    "https://www.sports.ru/football/1117446255-aleksandr-mostovoj-rubin-i-rostov-naznachili-futbolnyx-lyudej-i-poshel.html"
+    "https://www.sports.ru/football/1117446255-aleksandr-mostovoj-rubin-i-rostov-naznachili-futbolnyx-lyudej-i-poshel.html",
+    "https://www.sport.ru/football/gazinskiy-nazval-luchshego-napadayuschego-rpl/article664403",
+    "https://www.sport.ru/football/igrok-rodiny-rasskazal-ob-opyte-igry-protiv-messi/article664401",
+    "https://www.sports.ru/hockey/1117446436-larkin-debyutiruet-za-monreal-v-matche-s-los-andzhelesom.html"
   ],
   "sent_commentary_keys": []
 }
