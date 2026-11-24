@@ -257,7 +257,10 @@
     "queue/20261123-211800-03.json",
     "queue/20261124-001740-01.json",
     "queue/20261124-001740-02.json",
-    "queue/20261124-001740-03.json"
+    "queue/20261124-001740-03.json",
+    "queue/20261124-061703-01.json",
+    "queue/20261124-061703-02.json",
+    "queue/20261124-061703-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -517,7 +520,10 @@
     "https://www.sports.ru/football/1117446255-aleksandr-mostovoj-rubin-i-rostov-naznachili-futbolnyx-lyudej-i-poshel.html",
     "https://www.sport.ru/football/gazinskiy-nazval-luchshego-napadayuschego-rpl/article664403",
     "https://www.sport.ru/football/igrok-rodiny-rasskazal-ob-opyte-igry-protiv-messi/article664401",
-    "https://www.sports.ru/hockey/1117446436-larkin-debyutiruet-za-monreal-v-matche-s-los-andzhelesom.html"
+    "https://www.sports.ru/hockey/1117446436-larkin-debyutiruet-za-monreal-v-matche-s-los-andzhelesom.html",
+    "https://www.sports.ru/football/1117446682-sluczkij-ob-otvete-ovchinnikova-titkovu-begaj-kolya-absolyutno-praviln.html",
+    "https://www.sports.ru/football/1117443276-chempionat-italii-roma-sygraet-s-parmoj-napoli-primet-torino.html",
+    "https://www.sports.ru/basketball/1117446661-nikola-jokich-i-entoni-devis-priznany-luchshimi-igrokami-nedeli-v-nba.html"
   ],
   "sent_commentary_keys": []
 }
