@@ -263,7 +263,10 @@
     "queue/20261124-061703-03.json",
     "queue/20261124-151703-01.json",
     "queue/20261124-151703-02.json",
-    "queue/20261124-151703-03.json"
+    "queue/20261124-151703-03.json",
+    "queue/20261125-061703-01.json",
+    "queue/20261125-061703-02.json",
+    "queue/20261125-061703-03.json"
   ],
   "sent_urls": [
     "https://www.sport.ru/football/lokomotiv-i-zenit-obyyavili-startovye-sostavy-na-match-22-go-tura-rpl/article546960",
@@ -529,7 +532,10 @@
     "https://www.sports.ru/basketball/1117446661-nikola-jokich-i-entoni-devis-priznany-luchshimi-igrokami-nedeli-v-nba.html",
     "https://www.sports.ru/football/1117446752-sluczkij-o-yarovinskom-v-baltike-oleg-luchshij-sportivnyj-direktor-v-r.html",
     "https://www.sport.ru/football/futbol-kubok-rossii-zenit-krylya-sovetov-pryamaya-translyatsiya/article664440",
-    "https://www.sport.ru/hockey/kaprizov-povtoril-rekord-malkina-i-panarina-po-prodoljitelnosti-rezultativnoy-/article664441"
+    "https://www.sport.ru/hockey/kaprizov-povtoril-rekord-malkina-i-panarina-po-prodoljitelnosti-rezultativnoy-/article664441",
+    "https://www.sports.ru/football/1117447698-eks-gensek-rfs-vorobev-pro-rasshirenie-mozhno-sokratit-letnyuyu-pauzu-.html",
+    "https://www.sports.ru/football/1117446889-manchester-siti-primet-napoli-v-5-m-ture-obshhego-etapa-ligi-chempiono.html",
+    "https://www.sports.ru/football/1117447338-milan-predlagaet-rabo-novyj-kontrakt-do-2030-goda-xavbek-xochet-prodli.html"
   ],
   "sent_commentary_keys": []
 }
